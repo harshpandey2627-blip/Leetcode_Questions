@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-14T16:02:35.567Z",
+  "updatedAt": "2026-09-14T16:02:52.421Z",
   "problems": [
     {
       "frontendId": "74",
@@ -23,6 +23,26 @@
           "path": "0074-search-a-2d-matrix/0074-search-a-2d-matrix.java",
           "sha": "0bc677160d0b5b0ab69a46a6cc55f4846ada76b3",
           "lastSyncedAt": "2026-09-14T16:00:20.256Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "108",
+      "title": "Convert Sorted Array to Binary Search Tree",
+      "slug": "convert-sorted-array-to-binary-search-tree",
+      "problemName": "0108-convert-sorted-array-to-binary-search-tree",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/",
+      "folderPath": "0108-convert-sorted-array-to-binary-search-tree/",
+      "readmePath": "0108-convert-sorted-array-to-binary-search-tree/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0108-convert-sorted-array-to-binary-search-tree.java",
+          "path": "0108-convert-sorted-array-to-binary-search-tree/0108-convert-sorted-array-to-binary-search-tree.java",
+          "sha": "522add1e30efc137a7443f8df4e17ee4596e78d4",
+          "lastSyncedAt": "2026-09-14T16:02:52.421Z"
         }
       ]
     },
