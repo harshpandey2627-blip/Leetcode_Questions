@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-14T15:55:55.971Z",
+  "updatedAt": "2026-09-14T15:56:04.014Z",
   "problems": [
     {
       "frontendId": "29",
@@ -23,6 +23,26 @@
           "path": "0029-divide-two-integers/0029-divide-two-integers.java",
           "sha": "8ab2dc334578072ac36d719a22187ccc95a37bdd",
           "lastSyncedAt": "2026-09-14T15:55:55.971Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "50",
+      "title": "Pow(x, n)",
+      "slug": "powx-n",
+      "problemName": "0050-powx-n",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/powx-n/",
+      "folderPath": "0050-powx-n/",
+      "readmePath": "0050-powx-n/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0050-powx-n.java",
+          "path": "0050-powx-n/0050-powx-n.java",
+          "sha": "d11e8446f011586d96d1b2fbb88238decba0bccf",
+          "lastSyncedAt": "2026-09-14T15:56:04.014Z"
         }
       ]
     }
