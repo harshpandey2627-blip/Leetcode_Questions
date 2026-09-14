@@ -4,7 +4,7 @@
     "slug": "binary-search",
     "name": "Binary Search"
   },
-  "updatedAt": "2026-09-14T16:11:54.261Z",
+  "updatedAt": "2026-09-14T16:13:07.287Z",
   "problems": [
     {
       "frontendId": "69",
@@ -122,7 +122,7 @@
           "filename": "0410-split-array-largest-sum.java",
           "path": "0410-split-array-largest-sum/0410-split-array-largest-sum.java",
           "sha": "f37bc5d0729e4e240b4ef74a28908afe8b7dcd1e",
-          "lastSyncedAt": "2026-09-14T16:02:35.567Z"
+          "lastSyncedAt": "2026-09-14T16:13:07.287Z"
         }
       ]
     },
