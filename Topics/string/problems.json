@@ -4,8 +4,28 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-14T16:02:04.559Z",
+  "updatedAt": "2026-09-14T16:02:15.396Z",
   "problems": [
+    {
+      "frontendId": "28",
+      "title": "Find the Index of the First Occurrence in a String",
+      "slug": "find-the-index-of-the-first-occurrence-in-a-string",
+      "problemName": "0028-find-the-index-of-the-first-occurrence-in-a-string",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/",
+      "folderPath": "0028-find-the-index-of-the-first-occurrence-in-a-string/",
+      "readmePath": "0028-find-the-index-of-the-first-occurrence-in-a-string/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0028-find-the-index-of-the-first-occurrence-in-a-string.java",
+          "path": "0028-find-the-index-of-the-first-occurrence-in-a-string/0028-find-the-index-of-the-first-occurrence-in-a-string.java",
+          "sha": "9d132b73e2a3be039c51b49a87d9f84146145ac4",
+          "lastSyncedAt": "2026-09-14T16:02:15.396Z"
+        }
+      ]
+    },
     {
       "frontendId": "67",
       "title": "Add Binary",
