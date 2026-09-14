@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-14T16:11:06.128Z",
+  "updatedAt": "2026-09-14T16:12:09.940Z",
   "problems": [
     {
       "frontendId": "29",
@@ -102,7 +102,7 @@
           "filename": "0168-excel-sheet-column-title.java",
           "path": "0168-excel-sheet-column-title/0168-excel-sheet-column-title.java",
           "sha": "94fa67bd3ecfe1677fcf114f837dfedf0613cf30",
-          "lastSyncedAt": "2026-09-14T16:01:52.737Z"
+          "lastSyncedAt": "2026-09-14T16:12:09.940Z"
         }
       ]
     },
