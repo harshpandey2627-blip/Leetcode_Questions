@@ -4,8 +4,28 @@
     "slug": "binary-search",
     "name": "Binary Search"
   },
-  "updatedAt": "2026-09-14T15:59:48.897Z",
+  "updatedAt": "2026-09-14T16:00:20.256Z",
   "problems": [
+    {
+      "frontendId": "74",
+      "title": "Search a 2D Matrix",
+      "slug": "search-a-2d-matrix",
+      "problemName": "0074-search-a-2d-matrix",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/search-a-2d-matrix/",
+      "folderPath": "0074-search-a-2d-matrix/",
+      "readmePath": "0074-search-a-2d-matrix/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0074-search-a-2d-matrix.java",
+          "path": "0074-search-a-2d-matrix/0074-search-a-2d-matrix.java",
+          "sha": "0bc677160d0b5b0ab69a46a6cc55f4846ada76b3",
+          "lastSyncedAt": "2026-09-14T16:00:20.256Z"
+        }
+      ]
+    },
     {
       "frontendId": "374",
       "title": "Guess Number Higher or Lower",
