@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "heap",
+    "name": "Heap"
+  },
+  "source": "leetcode-cheatsheet",
+  "updatedAt": "2026-09-14T15:55:26.776Z",
+  "templates": [
+    {
+      "id": "find-top-k-elements",
+      "title": "Find Top K Elements",
+      "files": {
+        "cpp": "templates/cpp/find_top_k_elements.cpp",
+        "java": "templates/java/find_top_k_elements.java",
+        "javascript": "templates/javascript/find_top_k_elements.js",
+        "lua": "templates/lua/find_top_k_elements.lua",
+        "python": "templates/python/find_top_k_elements.py",
+        "ruby": "templates/ruby/find_top_k_elements.rb"
+      }
+    }
+  ]
+}

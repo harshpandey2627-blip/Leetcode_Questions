@@ -1,0 +1,107 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "graph",
+    "name": "Graph"
+  },
+  "source": "leetcode-cheatsheet",
+  "updatedAt": "2026-09-14T15:55:26.776Z",
+  "templates": [
+    {
+      "id": "bellman-ford",
+      "title": "Bellman Ford",
+      "files": {
+        "cpp": "templates/cpp/bellman_ford.cpp",
+        "java": "templates/java/bellman_ford.java",
+        "javascript": "templates/javascript/bellman_ford.js",
+        "lua": "templates/lua/bellman_ford.lua",
+        "python": "templates/python/bellman_ford.py",
+        "ruby": "templates/ruby/bellman_ford.rb"
+      }
+    },
+    {
+      "id": "bfs",
+      "title": "Bfs",
+      "files": {
+        "cpp": "templates/cpp/bfs.cpp",
+        "java": "templates/java/bfs.java",
+        "javascript": "templates/javascript/bfs.js",
+        "lua": "templates/lua/bfs.lua",
+        "python": "templates/python/bfs.py",
+        "ruby": "templates/ruby/bfs.rb"
+      }
+    },
+    {
+      "id": "dfs-iterative",
+      "title": "Dfs Iterative",
+      "files": {
+        "cpp": "templates/cpp/dfs_iterative.cpp",
+        "java": "templates/java/dfs_iterative.java",
+        "javascript": "templates/javascript/dfs_iterative.js",
+        "lua": "templates/lua/dfs_iterative.lua",
+        "python": "templates/python/dfs_iterative.py",
+        "ruby": "templates/ruby/dfs_iterative.rb"
+      }
+    },
+    {
+      "id": "dfs-recursive",
+      "title": "Dfs Recursive",
+      "files": {
+        "cpp": "templates/cpp/dfs_recursive.cpp",
+        "java": "templates/java/dfs_recursive.java",
+        "javascript": "templates/javascript/dfs_recursive.js",
+        "lua": "templates/lua/dfs_recursive.lua",
+        "python": "templates/python/dfs_recursive.py",
+        "ruby": "templates/ruby/dfs_recursive.rb"
+      }
+    },
+    {
+      "id": "dijkstra",
+      "title": "Dijkstra",
+      "files": {
+        "cpp": "templates/cpp/dijkstra.cpp",
+        "java": "templates/java/dijkstra.java",
+        "javascript": "templates/javascript/dijkstra.js",
+        "lua": "templates/lua/dijkstra.lua",
+        "python": "templates/python/dijkstra.py",
+        "ruby": "templates/ruby/dijkstra.rb"
+      }
+    },
+    {
+      "id": "kahn",
+      "title": "Kahn",
+      "files": {
+        "cpp": "templates/cpp/kahn.cpp",
+        "java": "templates/java/kahn.java",
+        "javascript": "templates/javascript/kahn.js",
+        "lua": "templates/lua/kahn.lua",
+        "python": "templates/python/kahn.py",
+        "ruby": "templates/ruby/kahn.rb"
+      }
+    },
+    {
+      "id": "kruskal",
+      "title": "Kruskal",
+      "files": {
+        "cpp": "templates/cpp/kruskal.cpp",
+        "java": "templates/java/kruskal.java",
+        "javascript": "templates/javascript/kruskal.js",
+        "lua": "templates/lua/kruskal.lua",
+        "python": "templates/python/kruskal.py",
+        "ruby": "templates/ruby/kruskal.rb"
+      }
+    },
+    {
+      "id": "prim",
+      "title": "Prim",
+      "files": {
+        "cpp": "templates/cpp/prim.cpp",
+        "java": "templates/java/prim.java",
+        "javascript": "templates/javascript/prim.js",
+        "lua": "templates/lua/prim.lua",
+        "python": "templates/python/prim.py",
+        "ruby": "templates/ruby/prim.rb"
+      }
+    }
+  ]
+}

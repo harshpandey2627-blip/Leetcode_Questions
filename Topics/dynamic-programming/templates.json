@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "dynamic-programming",
+    "name": "Dynamic Programming"
+  },
+  "source": "leetcode-cheatsheet",
+  "updatedAt": "2026-09-14T15:55:26.776Z",
+  "templates": [
+    {
+      "id": "bottom-up",
+      "title": "Bottom Up",
+      "files": {
+        "cpp": "templates/cpp/bottom_up.cpp",
+        "java": "templates/java/bottom_up.java",
+        "javascript": "templates/javascript/bottom_up.js",
+        "lua": "templates/lua/bottom_up.lua",
+        "python": "templates/python/bottom_up.py",
+        "ruby": "templates/ruby/bottom_up.rb"
+      }
+    },
+    {
+      "id": "kadane",
+      "title": "Kadane",
+      "files": {
+        "cpp": "templates/cpp/kadane.cpp",
+        "java": "templates/java/kadane.java",
+        "javascript": "templates/javascript/kadane.js",
+        "lua": "templates/lua/kadane.lua",
+        "python": "templates/python/kadane.py",
+        "ruby": "templates/ruby/kadane.rb"
+      }
+    },
+    {
+      "id": "top-down",
+      "title": "Top Down",
+      "files": {
+        "cpp": "templates/cpp/top_down.cpp",
+        "java": "templates/java/top_down.java",
+        "javascript": "templates/javascript/top_down.js",
+        "lua": "templates/lua/top_down.lua",
+        "python": "templates/python/top_down.py",
+        "ruby": "templates/ruby/top_down.rb"
+      }
+    }
+  ]
+}

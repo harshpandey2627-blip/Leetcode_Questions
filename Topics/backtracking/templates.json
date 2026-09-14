@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "backtracking",
+    "name": "Backtracking"
+  },
+  "source": "leetcode-cheatsheet",
+  "updatedAt": "2026-09-14T15:55:26.776Z",
+  "templates": [
+    {
+      "id": "backtracking",
+      "title": "Backtracking",
+      "files": {
+        "cpp": "templates/cpp/backtracking.cpp",
+        "java": "templates/java/backtracking.java",
+        "javascript": "templates/javascript/backtracking.js",
+        "lua": "templates/lua/backtracking.lua",
+        "python": "templates/python/backtracking.py",
+        "ruby": "templates/ruby/backtracking.rb"
+      }
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "array",
+    "name": "Array"
+  },
+  "source": "leetcode-cheatsheet",
+  "updatedAt": "2026-09-14T15:55:26.776Z",
+  "templates": [
+    {
+      "id": "prefix-sum",
+      "title": "Prefix Sum",
+      "files": {
+        "cpp": "templates/cpp/prefix_sum.cpp",
+        "java": "templates/java/prefix_sum.java",
+        "javascript": "templates/javascript/prefix_sum.js",
+        "lua": "templates/lua/prefix_sum.lua",
+        "python": "templates/python/prefix_sum.py",
+        "ruby": "templates/ruby/prefix_sum.rb"
+      }
+    },
+    {
+      "id": "sliding-window",
+      "title": "Sliding Window",
+      "files": {
+        "cpp": "templates/cpp/sliding_window.cpp",
+        "java": "templates/java/sliding_window.java",
+        "javascript": "templates/javascript/sliding_window.js",
+        "lua": "templates/lua/sliding_window.lua",
+        "python": "templates/python/sliding_window.py",
+        "ruby": "templates/ruby/sliding_window.rb"
+      }
+    },
+    {
+      "id": "string-building",
+      "title": "String Building",
+      "files": {
+        "cpp": "templates/cpp/string_building.cpp",
+        "java": "templates/java/string_building.java",
+        "javascript": "templates/javascript/string_building.js",
+        "lua": "templates/lua/string_building.lua",
+        "python": "templates/python/string_building.py",
+        "ruby": "templates/ruby/string_building.rb"
+      }
+    },
+    {
+      "id": "two-pointers-one-input",
+      "title": "Two Pointers One Input",
+      "files": {
+        "cpp": "templates/cpp/two_pointers_one_input.cpp",
+        "java": "templates/java/two_pointers_one_input.java",
+        "javascript": "templates/javascript/two_pointers_one_input.js",
+        "lua": "templates/lua/two_pointers_one_input.lua",
+        "python": "templates/python/two_pointers_one_input.py",
+        "ruby": "templates/ruby/two_pointers_one_input.rb"
+      }
+    },
+    {
+      "id": "two-pointers-two-inputs",
+      "title": "Two Pointers Two Inputs",
+      "files": {
+        "cpp": "templates/cpp/two_pointers_two_inputs.cpp",
+        "java": "templates/java/two_pointers_two_inputs.java",
+        "javascript": "templates/javascript/two_pointers_two_inputs.js",
+        "lua": "templates/lua/two_pointers_two_inputs.lua",
+        "python": "templates/python/two_pointers_two_inputs.py",
+        "ruby": "templates/ruby/two_pointers_two_inputs.rb"
+      }
+    }
+  ]
+}

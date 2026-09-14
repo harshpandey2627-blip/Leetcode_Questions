@@ -1,0 +1,35 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "linked-list",
+    "name": "Linked List"
+  },
+  "source": "leetcode-cheatsheet",
+  "updatedAt": "2026-09-14T15:55:26.776Z",
+  "templates": [
+    {
+      "id": "fast-and-slow-pointer",
+      "title": "Fast And Slow Pointer",
+      "files": {
+        "cpp": "templates/cpp/fast_and_slow_pointer.cpp",
+        "java": "templates/java/fast_and_slow_pointer.java",
+        "javascript": "templates/javascript/fast_and_slow_pointer.js",
+        "lua": "templates/lua/fast_and_slow_pointer.lua",
+        "python": "templates/python/fast_and_slow_pointer.py",
+        "ruby": "templates/ruby/fast_and_slow_pointer.rb"
+      }
+    },
+    {
+      "id": "reverse-linked-list",
+      "title": "Reverse Linked List",
+      "files": {
+        "cpp": "templates/cpp/reverse_linked_list.cpp",
+        "java": "templates/java/reverse_linked_list.java",
+        "javascript": "templates/javascript/reverse_linked_list.js",
+        "lua": "templates/lua/reverse_linked_list.lua",
+        "python": "templates/python/reverse_linked_list.py",
+        "ruby": "templates/ruby/reverse_linked_list.rb"
+      }
+    }
+  ]
+}

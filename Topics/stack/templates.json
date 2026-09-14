@@ -1,0 +1,35 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "stack",
+    "name": "Stack"
+  },
+  "source": "leetcode-cheatsheet",
+  "updatedAt": "2026-09-14T15:55:26.776Z",
+  "templates": [
+    {
+      "id": "monotonic-decreasing",
+      "title": "Monotonic Decreasing",
+      "files": {
+        "cpp": "templates/cpp/monotonic_decreasing.cpp",
+        "java": "templates/java/monotonic_decreasing.java",
+        "javascript": "templates/javascript/monotonic_decreasing.js",
+        "lua": "templates/lua/monotonic_decreasing.lua",
+        "python": "templates/python/monotonic_decreasing.py",
+        "ruby": "templates/ruby/monotonic_decreasing.rb"
+      }
+    },
+    {
+      "id": "monotonic-increasing",
+      "title": "Monotonic Increasing",
+      "files": {
+        "cpp": "templates/cpp/monotonic_increasing.cpp",
+        "java": "templates/java/monotonic_increasing.java",
+        "javascript": "templates/javascript/monotonic_increasing.js",
+        "lua": "templates/lua/monotonic_increasing.lua",
+        "python": "templates/python/monotonic_increasing.py",
+        "ruby": "templates/ruby/monotonic_increasing.rb"
+      }
+    }
+  ]
+}

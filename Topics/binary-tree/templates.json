@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "binary-tree",
+    "name": "Binary Tree"
+  },
+  "source": "leetcode-cheatsheet",
+  "updatedAt": "2026-09-14T15:55:26.776Z",
+  "templates": [
+    {
+      "id": "bfs",
+      "title": "Bfs",
+      "files": {
+        "cpp": "templates/cpp/bfs.cpp",
+        "java": "templates/java/bfs.java",
+        "javascript": "templates/javascript/bfs.js",
+        "lua": "templates/lua/bfs.lua",
+        "python": "templates/python/bfs.py",
+        "ruby": "templates/ruby/bfs.rb"
+      }
+    },
+    {
+      "id": "dfs-iterative",
+      "title": "Dfs Iterative",
+      "files": {
+        "cpp": "templates/cpp/dfs_iterative.cpp",
+        "java": "templates/java/dfs_iterative.java",
+        "javascript": "templates/javascript/dfs_iterative.js",
+        "lua": "templates/lua/dfs_iterative.lua",
+        "python": "templates/python/dfs_iterative.py",
+        "ruby": "templates/ruby/dfs_iterative.rb"
+      }
+    },
+    {
+      "id": "dfs-recursive",
+      "title": "Dfs Recursive",
+      "files": {
+        "cpp": "templates/cpp/dfs_recursive.cpp",
+        "java": "templates/java/dfs_recursive.java",
+        "javascript": "templates/javascript/dfs_recursive.js",
+        "lua": "templates/lua/dfs_recursive.lua",
+        "python": "templates/python/dfs_recursive.py",
+        "ruby": "templates/ruby/dfs_recursive.rb"
+      }
+    }
+  ]
+}

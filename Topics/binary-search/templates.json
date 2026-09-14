@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "binary-search",
+    "name": "Binary Search"
+  },
+  "source": "leetcode-cheatsheet",
+  "updatedAt": "2026-09-14T15:55:26.776Z",
+  "templates": [
+    {
+      "id": "binary-search",
+      "title": "Binary Search",
+      "files": {
+        "cpp": "templates/cpp/binary_search.cpp",
+        "java": "templates/java/binary_search.java",
+        "javascript": "templates/javascript/binary_search.js",
+        "lua": "templates/lua/binary_search.lua",
+        "python": "templates/python/binary_search.py",
+        "ruby": "templates/ruby/binary_search.rb"
+      }
+    },
+    {
+      "id": "duplicate-elements-left-insertion",
+      "title": "Duplicate Elements Left Insertion",
+      "files": {
+        "cpp": "templates/cpp/duplicate_elements_left_insertion.cpp",
+        "java": "templates/java/duplicate_elements_left_insertion.java",
+        "javascript": "templates/javascript/duplicate_elements_left_insertion.js",
+        "lua": "templates/lua/duplicate_elements_left_insertion.lua",
+        "python": "templates/python/duplicate_elements_left_insertion.py",
+        "ruby": "templates/ruby/duplicate_elements_left_insertion.rb"
+      }
+    },
+    {
+      "id": "duplicate-elements-right-insertion",
+      "title": "Duplicate Elements Right Insertion",
+      "files": {
+        "cpp": "templates/cpp/duplicate_elements_right_insertion.cpp",
+        "java": "templates/java/duplicate_elements_right_insertion.java",
+        "javascript": "templates/javascript/duplicate_elements_right_insertion.js",
+        "lua": "templates/lua/duplicate_elements_right_insertion.lua",
+        "python": "templates/python/duplicate_elements_right_insertion.py",
+        "ruby": "templates/ruby/duplicate_elements_right_insertion.rb"
+      }
+    },
+    {
+      "id": "greedy-maximum",
+      "title": "Greedy Maximum",
+      "files": {
+        "cpp": "templates/cpp/greedy_maximum.cpp",
+        "java": "templates/java/greedy_maximum.java",
+        "javascript": "templates/javascript/greedy_maximum.js",
+        "lua": "templates/lua/greedy_maximum.lua",
+        "python": "templates/python/greedy_maximum.py",
+        "ruby": "templates/ruby/greedy_maximum.rb"
+      }
+    },
+    {
+      "id": "greedy-minimum",
+      "title": "Greedy Minimum",
+      "files": {
+        "cpp": "templates/cpp/greedy_minimum.cpp",
+        "java": "templates/java/greedy_minimum.java",
+        "javascript": "templates/javascript/greedy_minimum.js",
+        "lua": "templates/lua/greedy_minimum.lua",
+        "python": "templates/python/greedy_minimum.py",
+        "ruby": "templates/ruby/greedy_minimum.rb"
+      }
+    }
+  ]
+}

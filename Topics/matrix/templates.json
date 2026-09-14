@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "matrix",
+    "name": "Matrix"
+  },
+  "source": "leetcode-cheatsheet",
+  "updatedAt": "2026-09-14T15:55:26.776Z",
+  "templates": [
+    {
+      "id": "create-copy",
+      "title": "Create Copy",
+      "files": {
+        "cpp": "templates/cpp/create_copy.cpp",
+        "java": "templates/java/create_copy.java",
+        "javascript": "templates/javascript/create_copy.js",
+        "lua": "templates/lua/create_copy.lua",
+        "python": "templates/python/create_copy.py",
+        "ruby": "templates/ruby/create_copy.rb"
+      }
+    },
+    {
+      "id": "diagonals",
+      "title": "Diagonals",
+      "files": {
+        "cpp": "templates/cpp/diagonals.cpp",
+        "java": "templates/java/diagonals.java",
+        "javascript": "templates/javascript/diagonals.js",
+        "lua": "templates/lua/diagonals.lua",
+        "python": "templates/python/diagonals.py",
+        "ruby": "templates/ruby/diagonals.rb"
+      }
+    },
+    {
+      "id": "rotate-transpose",
+      "title": "Rotate Transpose",
+      "files": {
+        "cpp": "templates/cpp/rotate_transpose.cpp",
+        "java": "templates/java/rotate_transpose.java",
+        "javascript": "templates/javascript/rotate_transpose.js",
+        "lua": "templates/lua/rotate_transpose.lua",
+        "python": "templates/python/rotate_transpose.py",
+        "ruby": "templates/ruby/rotate_transpose.rb"
+      }
+    }
+  ]
+}

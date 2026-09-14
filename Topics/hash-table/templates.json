@@ -1,0 +1,35 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "hash-table",
+    "name": "Hash Table"
+  },
+  "source": "leetcode-cheatsheet",
+  "updatedAt": "2026-09-14T15:55:26.776Z",
+  "templates": [
+    {
+      "id": "find-number-of-subarrays",
+      "title": "Find Number Of Subarrays",
+      "files": {
+        "cpp": "templates/cpp/find_number_of_subarrays.cpp",
+        "java": "templates/java/find_number_of_subarrays.java",
+        "javascript": "templates/javascript/find_number_of_subarrays.js",
+        "lua": "templates/lua/find_number_of_subarrays.lua",
+        "python": "templates/python/find_number_of_subarrays.py",
+        "ruby": "templates/ruby/find_number_of_subarrays.rb"
+      }
+    },
+    {
+      "id": "sliding-window",
+      "title": "Sliding Window",
+      "files": {
+        "cpp": "templates/cpp/sliding_window.cpp",
+        "java": "templates/java/sliding_window.java",
+        "javascript": "templates/javascript/sliding_window.js",
+        "lua": "templates/lua/sliding_window.lua",
+        "python": "templates/python/sliding_window.py",
+        "ruby": "templates/ruby/sliding_window.rb"
+      }
+    }
+  ]
+}

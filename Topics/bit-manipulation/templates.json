@@ -1,0 +1,131 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "bit-manipulation",
+    "name": "Bit Manipulation"
+  },
+  "source": "leetcode-cheatsheet",
+  "updatedAt": "2026-09-14T15:55:26.776Z",
+  "templates": [
+    {
+      "id": "check-power-of-two",
+      "title": "Check Power Of Two",
+      "files": {
+        "cpp": "templates/cpp/check_power_of_two.cpp",
+        "java": "templates/java/check_power_of_two.java",
+        "javascript": "templates/javascript/check_power_of_two.js",
+        "lua": "templates/lua/check_power_of_two.lua",
+        "python": "templates/python/check_power_of_two.py",
+        "ruby": "templates/ruby/check_power_of_two.rb"
+      }
+    },
+    {
+      "id": "clear-kth-bit",
+      "title": "Clear Kth Bit",
+      "files": {
+        "cpp": "templates/cpp/clear_kth_bit.cpp",
+        "java": "templates/java/clear_kth_bit.java",
+        "javascript": "templates/javascript/clear_kth_bit.js",
+        "lua": "templates/lua/clear_kth_bit.lua",
+        "python": "templates/python/clear_kth_bit.py",
+        "ruby": "templates/ruby/clear_kth_bit.rb"
+      }
+    },
+    {
+      "id": "count-set-bits",
+      "title": "Count Set Bits",
+      "files": {
+        "cpp": "templates/cpp/count_set_bits.cpp",
+        "java": "templates/java/count_set_bits.java",
+        "javascript": "templates/javascript/count_set_bits.js",
+        "lua": "templates/lua/count_set_bits.lua",
+        "python": "templates/python/count_set_bits.py",
+        "ruby": "templates/ruby/count_set_bits.rb"
+      }
+    },
+    {
+      "id": "divide-power-of-two",
+      "title": "Divide Power Of Two",
+      "files": {
+        "cpp": "templates/cpp/divide_power_of_two.cpp",
+        "java": "templates/java/divide_power_of_two.java",
+        "javascript": "templates/javascript/divide_power_of_two.js",
+        "lua": "templates/lua/divide_power_of_two.lua",
+        "python": "templates/python/divide_power_of_two.py",
+        "ruby": "templates/ruby/divide_power_of_two.rb"
+      }
+    },
+    {
+      "id": "get-rightmost-bit",
+      "title": "Get Rightmost Bit",
+      "files": {
+        "cpp": "templates/cpp/get_rightmost_bit.cpp",
+        "java": "templates/java/get_rightmost_bit.java",
+        "javascript": "templates/javascript/get_rightmost_bit.js",
+        "lua": "templates/lua/get_rightmost_bit.lua",
+        "python": "templates/python/get_rightmost_bit.py",
+        "ruby": "templates/ruby/get_rightmost_bit.rb"
+      }
+    },
+    {
+      "id": "multiply-power-of-two",
+      "title": "Multiply Power Of Two",
+      "files": {
+        "cpp": "templates/cpp/multiply_power_of_two.cpp",
+        "java": "templates/java/multiply_power_of_two.java",
+        "javascript": "templates/javascript/multiply_power_of_two.js",
+        "lua": "templates/lua/multiply_power_of_two.lua",
+        "python": "templates/python/multiply_power_of_two.py",
+        "ruby": "templates/ruby/multiply_power_of_two.rb"
+      }
+    },
+    {
+      "id": "set-kth-bit",
+      "title": "Set Kth Bit",
+      "files": {
+        "cpp": "templates/cpp/set_kth_bit.cpp",
+        "java": "templates/java/set_kth_bit.java",
+        "javascript": "templates/javascript/set_kth_bit.js",
+        "lua": "templates/lua/set_kth_bit.lua",
+        "python": "templates/python/set_kth_bit.py",
+        "ruby": "templates/ruby/set_kth_bit.rb"
+      }
+    },
+    {
+      "id": "swap-variables",
+      "title": "Swap Variables",
+      "files": {
+        "cpp": "templates/cpp/swap_variables.cpp",
+        "java": "templates/java/swap_variables.java",
+        "javascript": "templates/javascript/swap_variables.js",
+        "lua": "templates/lua/swap_variables.lua",
+        "python": "templates/python/swap_variables.py",
+        "ruby": "templates/ruby/swap_variables.rb"
+      }
+    },
+    {
+      "id": "test-kth-bit",
+      "title": "Test Kth Bit",
+      "files": {
+        "cpp": "templates/cpp/test_kth_bit.cpp",
+        "java": "templates/java/test_kth_bit.java",
+        "javascript": "templates/javascript/test_kth_bit.js",
+        "lua": "templates/lua/test_kth_bit.lua",
+        "python": "templates/python/test_kth_bit.py",
+        "ruby": "templates/ruby/test_kth_bit.rb"
+      }
+    },
+    {
+      "id": "toggle-kth-bit",
+      "title": "Toggle Kth Bit",
+      "files": {
+        "cpp": "templates/cpp/toggle_kth_bit.cpp",
+        "java": "templates/java/toggle_kth_bit.java",
+        "javascript": "templates/javascript/toggle_kth_bit.js",
+        "lua": "templates/lua/toggle_kth_bit.lua",
+        "python": "templates/python/toggle_kth_bit.py",
+        "ruby": "templates/ruby/toggle_kth_bit.rb"
+      }
+    }
+  ]
+}

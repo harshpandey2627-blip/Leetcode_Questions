@@ -1,0 +1,191 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "sorting",
+    "name": "Sorting"
+  },
+  "source": "leetcode-cheatsheet",
+  "updatedAt": "2026-09-14T15:55:26.776Z",
+  "templates": [
+    {
+      "id": "bogo-sort",
+      "title": "Bogo Sort",
+      "files": {
+        "cpp": "templates/cpp/bogo_sort.cpp",
+        "java": "templates/java/bogo_sort.java",
+        "javascript": "templates/javascript/bogo_sort.js",
+        "lua": "templates/lua/bogo_sort.lua",
+        "python": "templates/python/bogo_sort.py",
+        "ruby": "templates/ruby/bogo_sort.rb"
+      }
+    },
+    {
+      "id": "bubble-sort",
+      "title": "Bubble Sort",
+      "files": {
+        "cpp": "templates/cpp/bubble_sort.cpp",
+        "java": "templates/java/bubble_sort.java",
+        "javascript": "templates/javascript/bubble_sort.js",
+        "lua": "templates/lua/bubble_sort.lua",
+        "python": "templates/python/bubble_sort.py",
+        "ruby": "templates/ruby/bubble_sort.rb"
+      }
+    },
+    {
+      "id": "bucket-sort",
+      "title": "Bucket Sort",
+      "files": {
+        "cpp": "templates/cpp/bucket_sort.cpp",
+        "java": "templates/java/bucket_sort.java",
+        "javascript": "templates/javascript/bucket_sort.js",
+        "lua": "templates/lua/bucket_sort.lua",
+        "python": "templates/python/bucket_sort.py",
+        "ruby": "templates/ruby/bucket_sort.rb"
+      }
+    },
+    {
+      "id": "counting-sort",
+      "title": "Counting Sort",
+      "files": {
+        "cpp": "templates/cpp/counting_sort.cpp",
+        "java": "templates/java/counting_sort.java",
+        "javascript": "templates/javascript/counting_sort.js",
+        "lua": "templates/lua/counting_sort.lua",
+        "python": "templates/python/counting_sort.py",
+        "ruby": "templates/ruby/counting_sort.rb"
+      }
+    },
+    {
+      "id": "cube-sort",
+      "title": "Cube Sort",
+      "files": {
+        "cpp": "templates/cpp/cube_sort.cpp",
+        "java": "templates/java/cube_sort.java",
+        "javascript": "templates/javascript/cube_sort.js",
+        "lua": "templates/lua/cube_sort.lua",
+        "python": "templates/python/cube_sort.py",
+        "ruby": "templates/ruby/cube_sort.rb"
+      }
+    },
+    {
+      "id": "heap-sort",
+      "title": "Heap Sort",
+      "files": {
+        "cpp": "templates/cpp/heap_sort.cpp",
+        "java": "templates/java/heap_sort.java",
+        "javascript": "templates/javascript/heap_sort.js",
+        "lua": "templates/lua/heap_sort.lua",
+        "python": "templates/python/heap_sort.py",
+        "ruby": "templates/ruby/heap_sort.rb"
+      }
+    },
+    {
+      "id": "insertion-sort",
+      "title": "Insertion Sort",
+      "files": {
+        "cpp": "templates/cpp/insertion_sort.cpp",
+        "java": "templates/java/insertion_sort.java",
+        "javascript": "templates/javascript/insertion_sort.js",
+        "lua": "templates/lua/insertion_sort.lua",
+        "python": "templates/python/insertion_sort.py",
+        "ruby": "templates/ruby/insertion_sort.rb"
+      }
+    },
+    {
+      "id": "merge-sort",
+      "title": "Merge Sort",
+      "files": {
+        "cpp": "templates/cpp/merge_sort.cpp",
+        "java": "templates/java/merge_sort.java",
+        "javascript": "templates/javascript/merge_sort.js",
+        "lua": "templates/lua/merge_sort.lua",
+        "python": "templates/python/merge_sort.py",
+        "ruby": "templates/ruby/merge_sort.rb"
+      }
+    },
+    {
+      "id": "pancake-sort",
+      "title": "Pancake Sort",
+      "files": {
+        "cpp": "templates/cpp/pancake_sort.cpp",
+        "java": "templates/java/pancake_sort.java",
+        "javascript": "templates/javascript/pancake_sort.js",
+        "lua": "templates/lua/pancake_sort.lua",
+        "python": "templates/python/pancake_sort.py",
+        "ruby": "templates/ruby/pancake_sort.rb"
+      }
+    },
+    {
+      "id": "quick-sort",
+      "title": "Quick Sort",
+      "files": {
+        "cpp": "templates/cpp/quick_sort.cpp",
+        "java": "templates/java/quick_sort.java",
+        "javascript": "templates/javascript/quick_sort.js",
+        "lua": "templates/lua/quick_sort.lua",
+        "python": "templates/python/quick_sort.py",
+        "ruby": "templates/ruby/quick_sort.rb"
+      }
+    },
+    {
+      "id": "radix-sort",
+      "title": "Radix Sort",
+      "files": {
+        "cpp": "templates/cpp/radix_sort.cpp",
+        "java": "templates/java/radix_sort.java",
+        "javascript": "templates/javascript/radix_sort.js",
+        "lua": "templates/lua/radix_sort.lua",
+        "python": "templates/python/radix_sort.py",
+        "ruby": "templates/ruby/radix_sort.rb"
+      }
+    },
+    {
+      "id": "selection-sort",
+      "title": "Selection Sort",
+      "files": {
+        "cpp": "templates/cpp/selection_sort.cpp",
+        "java": "templates/java/selection_sort.java",
+        "javascript": "templates/javascript/selection_sort.js",
+        "lua": "templates/lua/selection_sort.lua",
+        "python": "templates/python/selection_sort.py",
+        "ruby": "templates/ruby/selection_sort.rb"
+      }
+    },
+    {
+      "id": "shell-sort",
+      "title": "Shell Sort",
+      "files": {
+        "cpp": "templates/cpp/shell_sort.cpp",
+        "java": "templates/java/shell_sort.java",
+        "javascript": "templates/javascript/shell_sort.js",
+        "lua": "templates/lua/shell_sort.lua",
+        "python": "templates/python/shell_sort.py",
+        "ruby": "templates/ruby/shell_sort.rb"
+      }
+    },
+    {
+      "id": "sleep-sort",
+      "title": "Sleep Sort",
+      "files": {
+        "cpp": "templates/cpp/sleep_sort.cpp",
+        "java": "templates/java/sleep_sort.java",
+        "javascript": "templates/javascript/sleep_sort.js",
+        "lua": "templates/lua/sleep_sort.lua",
+        "python": "templates/python/sleep_sort.py",
+        "ruby": "templates/ruby/sleep_sort.rb"
+      }
+    },
+    {
+      "id": "tim-sort",
+      "title": "Tim Sort",
+      "files": {
+        "cpp": "templates/cpp/tim_sort.cpp",
+        "java": "templates/java/tim_sort.java",
+        "javascript": "templates/javascript/tim_sort.js",
+        "lua": "templates/lua/tim_sort.lua",
+        "python": "templates/python/tim_sort.py",
+        "ruby": "templates/ruby/tim_sort.rb"
+      }
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "data-structures",
+    "name": "Data Structures"
+  },
+  "source": "leetcode-cheatsheet",
+  "updatedAt": "2026-09-14T15:55:26.776Z",
+  "templates": [
+    {
+      "id": "array",
+      "title": "Array",
+      "files": {
+        "cpp": "templates/cpp/array.cpp",
+        "java": "templates/java/array.java",
+        "javascript": "templates/javascript/array.js",
+        "lua": "templates/lua/array.lua",
+        "python": "templates/python/array.py",
+        "ruby": "templates/ruby/array.rb"
+      }
+    },
+    {
+      "id": "binary-search-tree",
+      "title": "Binary Search Tree",
+      "files": {
+        "cpp": "templates/cpp/binary_search_tree.cpp",
+        "java": "templates/java/binary_search_tree.java",
+        "javascript": "templates/javascript/binary_search_tree.js",
+        "lua": "templates/lua/binary_search_tree.lua",
+        "python": "templates/python/binary_search_tree.py",
+        "ruby": "templates/ruby/binary_search_tree.rb"
+      }
+    },
+    {
+      "id": "binary-tree",
+      "title": "Binary Tree",
+      "files": {
+        "cpp": "templates/cpp/binary_tree.cpp",
+        "java": "templates/java/binary_tree.java",
+        "javascript": "templates/javascript/binary_tree.js",
+        "lua": "templates/lua/binary_tree.lua",
+        "python": "templates/python/binary_tree.py",
+        "ruby": "templates/ruby/binary_tree.rb"
+      }
+    },
+    {
+      "id": "doubly-linked-list",
+      "title": "Doubly Linked List",
+      "files": {
+        "cpp": "templates/cpp/doubly_linked_list.cpp",
+        "java": "templates/java/doubly_linked_list.java",
+        "javascript": "templates/javascript/doubly_linked_list.js",
+        "lua": "templates/lua/doubly_linked_list.lua",
+        "python": "templates/python/doubly_linked_list.py",
+        "ruby": "templates/ruby/doubly_linked_list.rb"
+      }
+    },
+    {
+      "id": "graph",
+      "title": "Graph",
+      "files": {
+        "cpp": "templates/cpp/graph.cpp",
+        "java": "templates/java/graph.java",
+        "javascript": "templates/javascript/graph.js",
+        "lua": "templates/lua/graph.lua",
+        "python": "templates/python/graph.py",
+        "ruby": "templates/ruby/graph.rb"
+      }
+    },
+    {
+      "id": "hash-map",
+      "title": "Hash Map",
+      "files": {
+        "cpp": "templates/cpp/hash_map.cpp",
+        "java": "templates/java/hash_map.java",
+        "javascript": "templates/javascript/hash_map.js",
+        "lua": "templates/lua/hash_map.lua",
+        "python": "templates/python/hash_map.py",
+        "ruby": "templates/ruby/hash_map.rb"
+      }
+    },
+    {
+      "id": "linked-list",
+      "title": "Linked List",
+      "files": {
+        "cpp": "templates/cpp/linked_list.cpp",
+        "java": "templates/java/linked_list.java",
+        "javascript": "templates/javascript/linked_list.js",
+        "lua": "templates/lua/linked_list.lua",
+        "python": "templates/python/linked_list.py",
+        "ruby": "templates/ruby/linked_list.rb"
+      }
+    },
+    {
+      "id": "trie",
+      "title": "Trie",
+      "files": {
+        "cpp": "templates/cpp/trie.cpp",
+        "java": "templates/java/trie.java",
+        "javascript": "templates/javascript/trie.js",
+        "lua": "templates/lua/trie.lua",
+        "python": "templates/python/trie.py",
+        "ruby": "templates/ruby/trie.rb"
+      }
+    },
+    {
+      "id": "union-find",
+      "title": "Union Find",
+      "files": {
+        "cpp": "templates/cpp/union_find.cpp",
+        "java": "templates/java/union_find.java",
+        "javascript": "templates/javascript/union_find.js",
+        "lua": "templates/lua/union_find.lua",
+        "python": "templates/python/union_find.py",
+        "ruby": "templates/ruby/union_find.rb"
+      }
+    },
+    {
+      "id": "union-find-optimized",
+      "title": "Union Find Optimized",
+      "files": {
+        "cpp": "templates/cpp/union_find_optimized.cpp",
+        "java": "templates/java/union_find_optimized.java",
+        "javascript": "templates/javascript/union_find_optimized.js",
+        "lua": "templates/lua/union_find_optimized.lua",
+        "python": "templates/python/union_find_optimized.py",
+        "ruby": "templates/ruby/union_find_optimized.rb"
+      }
+    }
+  ]
+}
