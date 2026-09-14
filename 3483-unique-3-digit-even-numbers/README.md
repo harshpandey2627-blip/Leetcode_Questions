@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/unique-3-digit-even-numbers">3483. Unique 3-Digit Even Numbers</a></h2><h3>Easy</h3><hr><p>You are given an array of digits called <code>digits</code>. Your task is to determine the number of <strong>distinct</strong> three-digit even numbers that can be formed using these digits.</p>
+<h2><a href="https://leetcode.com/problems/unique-3-digit-even-numbers/">3483. Unique 3-Digit Even Numbers</a></h2><h3>Easy</h3><hr><p>You are given an array of digits called <code>digits</code>. Your task is to determine the number of <strong>distinct</strong> three-digit even numbers that can be formed using these digits.</p>
 
 <p><strong>Note</strong>: Each <em>copy</em> of a digit can only be used <strong>once per number</strong>, and there may <strong>not</strong> be leading zeros.</p>
 
