@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-14T16:01:52.737Z",
+  "updatedAt": "2026-09-14T16:02:00.464Z",
   "problems": [
     {
       "frontendId": "29",
@@ -63,6 +63,26 @@
           "path": "0168-excel-sheet-column-title/0168-excel-sheet-column-title.java",
           "sha": "94fa67bd3ecfe1677fcf114f837dfedf0613cf30",
           "lastSyncedAt": "2026-09-14T16:01:52.737Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3870",
+      "title": "Count Commas in Range",
+      "slug": "count-commas-in-range",
+      "problemName": "3870-count-commas-in-range",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/count-commas-in-range/",
+      "folderPath": "3870-count-commas-in-range/",
+      "readmePath": "3870-count-commas-in-range/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3870-count-commas-in-range.java",
+          "path": "3870-count-commas-in-range/3870-count-commas-in-range.java",
+          "sha": "49591de0808fe5e331e1e88f8d68c7a347e7892f",
+          "lastSyncedAt": "2026-09-14T16:02:00.464Z"
         }
       ]
     }
