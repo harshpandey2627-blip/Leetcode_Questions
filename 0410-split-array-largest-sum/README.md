@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/split-array-largest-sum">410. Split Array Largest Sum</a></h2><h3>Hard</h3><hr><p>Given an integer array <code>nums</code> and an integer <code>k</code>, split <code>nums</code> into <code>k</code> non-empty subarrays such that the largest sum of any subarray is <strong>minimized</strong>.</p>
+<h2><a href="https://leetcode.com/problems/split-array-largest-sum/">410. Split Array Largest Sum</a></h2><h3>Hard</h3><hr><p>Given an integer array <code>nums</code> and an integer <code>k</code>, split <code>nums</code> into <code>k</code> non-empty subarrays such that the largest sum of any subarray is <strong>minimized</strong>.</p>
 
 <p>Return <em>the minimized largest sum of the split</em>.</p>
 
