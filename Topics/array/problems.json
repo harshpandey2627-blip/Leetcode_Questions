@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-14T16:11:25.436Z",
+  "updatedAt": "2026-09-14T16:11:34.925Z",
   "problems": [
     {
       "frontendId": "74",
@@ -22,7 +22,7 @@
           "filename": "0074-search-a-2d-matrix.java",
           "path": "0074-search-a-2d-matrix/0074-search-a-2d-matrix.java",
           "sha": "0bc677160d0b5b0ab69a46a6cc55f4846ada76b3",
-          "lastSyncedAt": "2026-09-14T16:00:20.256Z"
+          "lastSyncedAt": "2026-09-14T16:11:34.925Z"
         }
       ]
     },
