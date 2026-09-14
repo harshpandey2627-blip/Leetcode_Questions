@@ -4,6 +4,27 @@
     "slug": "binary-search",
     "name": "Binary Search"
   },
-  "updatedAt": "2026-09-14T15:55:26.776Z",
-  "problems": []
+  "updatedAt": "2026-09-14T15:56:29.247Z",
+  "problems": [
+    {
+      "frontendId": "374",
+      "title": "Guess Number Higher or Lower",
+      "slug": "guess-number-higher-or-lower",
+      "problemName": "0374-guess-number-higher-or-lower",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/guess-number-higher-or-lower/",
+      "folderPath": "0374-guess-number-higher-or-lower/",
+      "readmePath": "0374-guess-number-higher-or-lower/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0374-guess-number-higher-or-lower.java",
+          "path": "0374-guess-number-higher-or-lower/0374-guess-number-higher-or-lower.java",
+          "sha": "f92d3ea5e58552a9723ceef8a68e0d20774d06a3",
+          "lastSyncedAt": "2026-09-14T15:56:29.247Z"
+        }
+      ]
+    }
+  ]
 }
