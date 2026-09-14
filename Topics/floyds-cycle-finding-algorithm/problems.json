@@ -4,7 +4,7 @@
     "slug": "floyds-cycle-finding-algorithm",
     "name": "Floyd's Cycle Finding Algorithm"
   },
-  "updatedAt": "2026-09-14T16:00:28.331Z",
+  "updatedAt": "2026-09-14T16:11:40.414Z",
   "problems": [
     {
       "frontendId": "287",
@@ -22,7 +22,7 @@
           "filename": "0287-find-the-duplicate-number.java",
           "path": "0287-find-the-duplicate-number/0287-find-the-duplicate-number.java",
           "sha": "50ad19ceea205bf9972a0923af64539c1f3e841c",
-          "lastSyncedAt": "2026-09-14T16:00:28.331Z"
+          "lastSyncedAt": "2026-09-14T16:11:40.414Z"
         }
       ]
     }
