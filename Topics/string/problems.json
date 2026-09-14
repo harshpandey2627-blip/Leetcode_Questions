@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "string",
+    "name": "String"
+  },
+  "updatedAt": "2026-09-14T16:01:52.737Z",
+  "problems": [
+    {
+      "frontendId": "168",
+      "title": "Excel Sheet Column Title",
+      "slug": "excel-sheet-column-title",
+      "problemName": "0168-excel-sheet-column-title",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/excel-sheet-column-title/",
+      "folderPath": "0168-excel-sheet-column-title/",
+      "readmePath": "0168-excel-sheet-column-title/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0168-excel-sheet-column-title.java",
+          "path": "0168-excel-sheet-column-title/0168-excel-sheet-column-title.java",
+          "sha": "94fa67bd3ecfe1677fcf114f837dfedf0613cf30",
+          "lastSyncedAt": "2026-09-14T16:01:52.737Z"
+        }
+      ]
+    }
+  ]
+}
