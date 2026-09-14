@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-14T15:59:26.991Z",
+  "updatedAt": "2026-09-14T15:59:48.897Z",
   "problems": [
     {
       "frontendId": "378",
@@ -22,7 +22,7 @@
           "filename": "0378-kth-smallest-element-in-a-sorted-matrix.java",
           "path": "0378-kth-smallest-element-in-a-sorted-matrix/0378-kth-smallest-element-in-a-sorted-matrix.java",
           "sha": "e05bb8b89ea7ccc0f7869cc24370e98801bc05c9",
-          "lastSyncedAt": "2026-09-14T15:56:40.999Z"
+          "lastSyncedAt": "2026-09-14T15:59:48.897Z"
         }
       ]
     },
