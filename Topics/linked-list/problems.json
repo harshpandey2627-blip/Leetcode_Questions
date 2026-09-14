@@ -4,7 +4,7 @@
     "slug": "linked-list",
     "name": "Linked List"
   },
-  "updatedAt": "2026-09-14T15:56:11.913Z",
+  "updatedAt": "2026-09-14T15:59:24.520Z",
   "problems": [
     {
       "frontendId": "83",
@@ -22,7 +22,7 @@
           "filename": "0083-remove-duplicates-from-sorted-list.java",
           "path": "0083-remove-duplicates-from-sorted-list/0083-remove-duplicates-from-sorted-list.java",
           "sha": "7dbebc3286c118896a553fdaf76984e724b1030a",
-          "lastSyncedAt": "2026-09-14T15:56:11.913Z"
+          "lastSyncedAt": "2026-09-14T15:59:24.520Z"
         }
       ]
     }
