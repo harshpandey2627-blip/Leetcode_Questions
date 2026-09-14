@@ -4,7 +4,7 @@
     "slug": "binary-search",
     "name": "Binary Search"
   },
-  "updatedAt": "2026-09-14T16:11:40.414Z",
+  "updatedAt": "2026-09-14T16:11:54.261Z",
   "problems": [
     {
       "frontendId": "69",
@@ -142,7 +142,7 @@
           "filename": "0875-koko-eating-bananas.java",
           "path": "0875-koko-eating-bananas/0875-koko-eating-bananas.java",
           "sha": "a91614a0aa1c3d8fd3706502aa9918e8aba28185",
-          "lastSyncedAt": "2026-09-14T16:01:06.426Z"
+          "lastSyncedAt": "2026-09-14T16:11:54.261Z"
         }
       ]
     }
