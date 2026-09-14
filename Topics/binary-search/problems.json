@@ -4,8 +4,28 @@
     "slug": "binary-search",
     "name": "Binary Search"
   },
-  "updatedAt": "2026-09-14T16:02:35.567Z",
+  "updatedAt": "2026-09-14T16:03:09.917Z",
   "problems": [
+    {
+      "frontendId": "69",
+      "title": "Sqrt(x)",
+      "slug": "sqrtx",
+      "problemName": "0069-sqrtx",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/sqrtx/",
+      "folderPath": "0069-sqrtx/",
+      "readmePath": "0069-sqrtx/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0069-sqrtx.java",
+          "path": "0069-sqrtx/0069-sqrtx.java",
+          "sha": "b34e67f61da25b98c05689d5dcd2e580610e1d94",
+          "lastSyncedAt": "2026-09-14T16:03:09.917Z"
+        }
+      ]
+    },
     {
       "frontendId": "74",
       "title": "Search a 2D Matrix",
