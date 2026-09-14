@@ -4,7 +4,7 @@
     "slug": "sorting",
     "name": "Sorting"
   },
-  "updatedAt": "2026-09-14T16:01:36.000Z",
+  "updatedAt": "2026-09-14T16:03:27.295Z",
   "problems": [
     {
       "frontendId": "215",
@@ -43,6 +43,26 @@
           "path": "0378-kth-smallest-element-in-a-sorted-matrix/0378-kth-smallest-element-in-a-sorted-matrix.java",
           "sha": "e05bb8b89ea7ccc0f7869cc24370e98801bc05c9",
           "lastSyncedAt": "2026-09-14T15:59:48.897Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "414",
+      "title": "Third Maximum Number",
+      "slug": "third-maximum-number",
+      "problemName": "0414-third-maximum-number",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/third-maximum-number/",
+      "folderPath": "0414-third-maximum-number/",
+      "readmePath": "0414-third-maximum-number/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0414-third-maximum-number.java",
+          "path": "0414-third-maximum-number/0414-third-maximum-number.java",
+          "sha": "10c4f3969c6d4a566ddf4c8f7593cb71e798ba1b",
+          "lastSyncedAt": "2026-09-14T16:03:27.295Z"
         }
       ]
     }
