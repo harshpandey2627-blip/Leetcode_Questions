@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-14T16:03:20.432Z",
+  "updatedAt": "2026-09-14T16:03:27.295Z",
   "problems": [
     {
       "frontendId": "74",
@@ -123,6 +123,26 @@
           "path": "0410-split-array-largest-sum/0410-split-array-largest-sum.java",
           "sha": "f37bc5d0729e4e240b4ef74a28908afe8b7dcd1e",
           "lastSyncedAt": "2026-09-14T16:02:35.567Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "414",
+      "title": "Third Maximum Number",
+      "slug": "third-maximum-number",
+      "problemName": "0414-third-maximum-number",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/third-maximum-number/",
+      "folderPath": "0414-third-maximum-number/",
+      "readmePath": "0414-third-maximum-number/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0414-third-maximum-number.java",
+          "path": "0414-third-maximum-number/0414-third-maximum-number.java",
+          "sha": "10c4f3969c6d4a566ddf4c8f7593cb71e798ba1b",
+          "lastSyncedAt": "2026-09-14T16:03:27.295Z"
         }
       ]
     },
