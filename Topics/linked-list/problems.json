@@ -4,6 +4,27 @@
     "slug": "linked-list",
     "name": "Linked List"
   },
-  "updatedAt": "2026-09-14T15:55:26.776Z",
-  "problems": []
+  "updatedAt": "2026-09-14T15:56:11.913Z",
+  "problems": [
+    {
+      "frontendId": "83",
+      "title": "Remove Duplicates from Sorted List",
+      "slug": "remove-duplicates-from-sorted-list",
+      "problemName": "0083-remove-duplicates-from-sorted-list",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-duplicates-from-sorted-list/",
+      "folderPath": "0083-remove-duplicates-from-sorted-list/",
+      "readmePath": "0083-remove-duplicates-from-sorted-list/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0083-remove-duplicates-from-sorted-list.java",
+          "path": "0083-remove-duplicates-from-sorted-list/0083-remove-duplicates-from-sorted-list.java",
+          "sha": "7dbebc3286c118896a553fdaf76984e724b1030a",
+          "lastSyncedAt": "2026-09-14T15:56:11.913Z"
+        }
+      ]
+    }
+  ]
 }
