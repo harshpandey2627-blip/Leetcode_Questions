@@ -4,7 +4,7 @@
     "slug": "binary-search",
     "name": "Binary Search"
   },
-  "updatedAt": "2026-09-14T16:03:09.917Z",
+  "updatedAt": "2026-09-14T16:11:21.024Z",
   "problems": [
     {
       "frontendId": "69",
@@ -82,7 +82,7 @@
           "filename": "0374-guess-number-higher-or-lower.java",
           "path": "0374-guess-number-higher-or-lower/0374-guess-number-higher-or-lower.java",
           "sha": "f92d3ea5e58552a9723ceef8a68e0d20774d06a3",
-          "lastSyncedAt": "2026-09-14T15:59:35.782Z"
+          "lastSyncedAt": "2026-09-14T16:11:21.024Z"
         }
       ]
     },
