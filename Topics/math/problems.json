@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "math",
+    "name": "Math"
+  },
+  "updatedAt": "2026-09-14T15:55:55.971Z",
+  "problems": [
+    {
+      "frontendId": "29",
+      "title": "Divide Two Integers",
+      "slug": "divide-two-integers",
+      "problemName": "0029-divide-two-integers",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/divide-two-integers/",
+      "folderPath": "0029-divide-two-integers/",
+      "readmePath": "0029-divide-two-integers/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0029-divide-two-integers.java",
+          "path": "0029-divide-two-integers/0029-divide-two-integers.java",
+          "sha": "8ab2dc334578072ac36d719a22187ccc95a37bdd",
+          "lastSyncedAt": "2026-09-14T15:55:55.971Z"
+        }
+      ]
+    }
+  ]
+}
