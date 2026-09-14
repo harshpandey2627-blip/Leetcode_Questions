@@ -4,7 +4,7 @@
     "slug": "bit-manipulation",
     "name": "Bit Manipulation"
   },
-  "updatedAt": "2026-09-14T16:00:28.331Z",
+  "updatedAt": "2026-09-14T16:02:04.559Z",
   "problems": [
     {
       "frontendId": "29",
@@ -23,6 +23,26 @@
           "path": "0029-divide-two-integers/0029-divide-two-integers.java",
           "sha": "8ab2dc334578072ac36d719a22187ccc95a37bdd",
           "lastSyncedAt": "2026-09-14T15:59:16.277Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "67",
+      "title": "Add Binary",
+      "slug": "add-binary",
+      "problemName": "0067-add-binary",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/add-binary/",
+      "folderPath": "0067-add-binary/",
+      "readmePath": "0067-add-binary/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0067-add-binary.java",
+          "path": "0067-add-binary/0067-add-binary.java",
+          "sha": "425a8d0495a1ddcbd4becb935ddaa5dfc504f3e9",
+          "lastSyncedAt": "2026-09-14T16:02:04.559Z"
         }
       ]
     },
