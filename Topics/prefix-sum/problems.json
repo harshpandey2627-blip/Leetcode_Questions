@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "prefix-sum",
+    "name": "Prefix Sum"
+  },
+  "updatedAt": "2026-09-14T16:02:35.567Z",
+  "problems": [
+    {
+      "frontendId": "410",
+      "title": "Split Array Largest Sum",
+      "slug": "split-array-largest-sum",
+      "problemName": "0410-split-array-largest-sum",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/split-array-largest-sum/",
+      "folderPath": "0410-split-array-largest-sum/",
+      "readmePath": "0410-split-array-largest-sum/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0410-split-array-largest-sum.java",
+          "path": "0410-split-array-largest-sum/0410-split-array-largest-sum.java",
+          "sha": "f37bc5d0729e4e240b4ef74a28908afe8b7dcd1e",
+          "lastSyncedAt": "2026-09-14T16:02:35.567Z"
+        }
+      ]
+    }
+  ]
+}
