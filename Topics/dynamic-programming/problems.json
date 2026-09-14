@@ -4,8 +4,28 @@
     "slug": "dynamic-programming",
     "name": "Dynamic Programming"
   },
-  "updatedAt": "2026-09-14T16:02:35.567Z",
+  "updatedAt": "2026-09-14T16:03:35.525Z",
   "problems": [
+    {
+      "frontendId": "118",
+      "title": "Pascal's Triangle",
+      "slug": "pascals-triangle",
+      "problemName": "0118-pascals-triangle",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/pascals-triangle/",
+      "folderPath": "0118-pascals-triangle/",
+      "readmePath": "0118-pascals-triangle/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0118-pascals-triangle.java",
+          "path": "0118-pascals-triangle/0118-pascals-triangle.java",
+          "sha": "b535884f90569b6cbe81c2e1c113c9b0dcf656db",
+          "lastSyncedAt": "2026-09-14T16:03:35.525Z"
+        }
+      ]
+    },
     {
       "frontendId": "410",
       "title": "Split Array Largest Sum",
