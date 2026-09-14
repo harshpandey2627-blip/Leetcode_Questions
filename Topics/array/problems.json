@@ -4,6 +4,27 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-14T15:55:26.776Z",
-  "problems": []
+  "updatedAt": "2026-09-14T15:56:16.490Z",
+  "problems": [
+    {
+      "frontendId": "3483",
+      "title": "Unique 3-Digit Even Numbers",
+      "slug": "unique-3-digit-even-numbers",
+      "problemName": "3483-unique-3-digit-even-numbers",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/unique-3-digit-even-numbers/",
+      "folderPath": "3483-unique-3-digit-even-numbers/",
+      "readmePath": "3483-unique-3-digit-even-numbers/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3483-unique-3-digit-even-numbers.java",
+          "path": "3483-unique-3-digit-even-numbers/3483-unique-3-digit-even-numbers.java",
+          "sha": "3ddbc055dcefd666a29548a5a204246d68f36fa2",
+          "lastSyncedAt": "2026-09-14T15:56:16.490Z"
+        }
+      ]
+    }
+  ]
 }
