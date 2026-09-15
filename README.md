@@ -83,3 +83,19 @@ Contains topicwise list of solved problems.
 | [Two Pointers](Topics/two-pointers/) | 2 |
 | [Z Algorithm](Topics/z-algorithm/) | 1 |
 <!---LeetHub Summary End-->
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0043-multiply-strings](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0043-multiply-strings/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0043-multiply-strings](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0043-multiply-strings/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0043-multiply-strings](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0043-multiply-strings/) | Medium |
+<!---LeetCode Topics End-->
