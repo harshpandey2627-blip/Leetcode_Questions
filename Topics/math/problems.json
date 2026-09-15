@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-14T16:13:41.993Z",
+  "updatedAt": "2026-09-15T17:06:14.957Z",
   "problems": [
     {
       "frontendId": "29",
@@ -23,6 +23,26 @@
           "path": "0029-divide-two-integers/0029-divide-two-integers.java",
           "sha": "8ab2dc334578072ac36d719a22187ccc95a37bdd",
           "lastSyncedAt": "2026-09-14T16:10:45.893Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "43",
+      "title": "Multiply Strings",
+      "slug": "multiply-strings",
+      "problemName": "0043-multiply-strings",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/multiply-strings/",
+      "folderPath": "0043-multiply-strings/",
+      "readmePath": "0043-multiply-strings/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0043-multiply-strings.java",
+          "path": "0043-multiply-strings/0043-multiply-strings.java",
+          "sha": "c4e581078d72e93572a1c958a94bdc85bd7d87ed",
+          "lastSyncedAt": "2026-09-15T17:06:14.957Z"
         }
       ]
     },
