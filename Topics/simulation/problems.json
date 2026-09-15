@@ -4,8 +4,28 @@
     "slug": "simulation",
     "name": "Simulation"
   },
-  "updatedAt": "2026-09-14T16:12:33.707Z",
+  "updatedAt": "2026-09-15T17:06:14.957Z",
   "problems": [
+    {
+      "frontendId": "43",
+      "title": "Multiply Strings",
+      "slug": "multiply-strings",
+      "problemName": "0043-multiply-strings",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/multiply-strings/",
+      "folderPath": "0043-multiply-strings/",
+      "readmePath": "0043-multiply-strings/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0043-multiply-strings.java",
+          "path": "0043-multiply-strings/0043-multiply-strings.java",
+          "sha": "c4e581078d72e93572a1c958a94bdc85bd7d87ed",
+          "lastSyncedAt": "2026-09-15T17:06:14.957Z"
+        }
+      ]
+    },
     {
       "frontendId": "67",
       "title": "Add Binary",
