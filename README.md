@@ -5,13 +5,13 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 20 | 12 | 7 | 1 |
+| 22 | 13 | 8 | 1 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 12 days | 12 days | 12 |
+| 14 days | 14 days | 14 |
 
 | Date | Problems |
 | --- | ---: |
@@ -27,21 +27,23 @@ Contains topicwise list of solved problems.
 | 2026-09-12 | 1 |
 | 2026-09-13 | 1 |
 | 2026-09-14 | 1 |
+| 2026-09-15 | 1 |
+| 2026-09-16 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 11 | 55% |
-| Binary Search | 7 | 35% |
-| Math | 7 | 35% |
-| Bit Manipulation | 3 | 15% |
-| Sorting | 3 | 15% |
-| String | 3 | 15% |
-| Divide and Conquer | 2 | 10% |
-| Dynamic Programming | 2 | 10% |
-| Heap (Priority Queue) | 2 | 10% |
-| Matrix | 2 | 10% |
+| Array | 11 | 50% |
+| Math | 8 | 36% |
+| Binary Search | 7 | 32% |
+| String | 5 | 23% |
+| Bit Manipulation | 3 | 14% |
+| Sorting | 3 | 14% |
+| Divide and Conquer | 2 | 9% |
+| Dynamic Programming | 2 | 9% |
+| Heap (Priority Queue) | 2 | 9% |
+| Matrix | 2 | 9% |
 
 ## Topics
 
@@ -54,6 +56,7 @@ Contains topicwise list of solved problems.
 | [Binary Tree](Topics/binary-tree/) | 1 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 3 |
 | [Boyer–Moore String-Search Algorithm](Topics/boyer-moore-string-search-algorithm/) | 1 |
+| [Bracket Sequences](Topics/bracket-sequences/) | 1 |
 | [Data Structures](Topics/data-structures/) | 0 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 2 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 2 |
@@ -67,17 +70,17 @@ Contains topicwise list of solved problems.
 | [Interactive](Topics/interactive/) | 1 |
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
 | [Linked List](Topics/linked-list/) | 1 |
-| [Math](Topics/math/) | 7 |
+| [Math](Topics/math/) | 8 |
 | [Matrix](Topics/matrix/) | 2 |
 | [Newton's Method](Topics/newtons-method/) | 1 |
 | [Pigeonhole Principle](Topics/pigeonhole-principle/) | 1 |
 | [Prefix Sum](Topics/prefix-sum/) | 1 |
 | [Quickselect](Topics/quickselect/) | 1 |
 | [Recursion](Topics/recursion/) | 2 |
-| [Simulation](Topics/simulation/) | 1 |
+| [Simulation](Topics/simulation/) | 2 |
 | [Sorting](Topics/sorting/) | 3 |
-| [Stack](Topics/stack/) | 0 |
-| [String](Topics/string/) | 3 |
+| [Stack](Topics/stack/) | 1 |
+| [String](Topics/string/) | 5 |
 | [String Matching](Topics/string-matching/) | 1 |
 | [Tree](Topics/tree/) | 1 |
 | [Two Pointers](Topics/two-pointers/) | 2 |
