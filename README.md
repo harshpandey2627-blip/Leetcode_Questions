@@ -110,4 +110,12 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0020-valid-parentheses/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0278-first-bad-version](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0278-first-bad-version/) | Easy |
+## Interactive
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0278-first-bad-version](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0278-first-bad-version/) | Easy |
 <!---LeetCode Topics End-->
