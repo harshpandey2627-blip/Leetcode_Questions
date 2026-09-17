@@ -4,8 +4,28 @@
     "slug": "interactive",
     "name": "Interactive"
   },
-  "updatedAt": "2026-09-14T16:11:21.024Z",
+  "updatedAt": "2026-09-17T17:39:04.335Z",
   "problems": [
+    {
+      "frontendId": "278",
+      "title": "First Bad Version",
+      "slug": "first-bad-version",
+      "problemName": "0278-first-bad-version",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/first-bad-version/",
+      "folderPath": "0278-first-bad-version/",
+      "readmePath": "0278-first-bad-version/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0278-first-bad-version.java",
+          "path": "0278-first-bad-version/0278-first-bad-version.java",
+          "sha": "6883e229bb32781b9af039ce7f236c4b22651b2f",
+          "lastSyncedAt": "2026-09-17T17:39:04.335Z"
+        }
+      ]
+    },
     {
       "frontendId": "374",
       "title": "Guess Number Higher or Lower",
