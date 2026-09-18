@@ -92,6 +92,7 @@ Contains topicwise list of solved problems.
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0007-reverse-integer](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0007-reverse-integer/) | Medium |
 | [0043-multiply-strings](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0043-multiply-strings/) | Medium |
 ## String
 | Problem Name | Difficulty |
