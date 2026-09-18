@@ -4,8 +4,28 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-15T17:06:14.957Z",
+  "updatedAt": "2026-09-18T16:25:20.948Z",
   "problems": [
+    {
+      "frontendId": "7",
+      "title": "Reverse Integer",
+      "slug": "reverse-integer",
+      "problemName": "0007-reverse-integer",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/reverse-integer/",
+      "folderPath": "0007-reverse-integer/",
+      "readmePath": "0007-reverse-integer/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0007-reverse-integer.java",
+          "path": "0007-reverse-integer/0007-reverse-integer.java",
+          "sha": "426d719adefa5003fc56199a4a222e1239868e18",
+          "lastSyncedAt": "2026-09-18T16:25:20.948Z"
+        }
+      ]
+    },
     {
       "frontendId": "29",
       "title": "Divide Two Integers",
