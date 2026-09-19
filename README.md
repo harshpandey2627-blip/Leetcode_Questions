@@ -94,6 +94,7 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0007-reverse-integer/) | Medium |
 | [0043-multiply-strings](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0043-multiply-strings/) | Medium |
+| [0989-add-to-array-form-of-integer](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -123,6 +124,7 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0039-combination-sum/) | Medium |
+| [0989-add-to-array-form-of-integer](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
