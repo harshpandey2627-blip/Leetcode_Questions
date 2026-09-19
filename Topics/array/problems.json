@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-19T02:50:24.388Z",
+  "updatedAt": "2026-09-19T15:59:53.491Z",
   "problems": [
     {
       "frontendId": "39",
@@ -203,6 +203,26 @@
           "path": "0875-koko-eating-bananas/0875-koko-eating-bananas.java",
           "sha": "a91614a0aa1c3d8fd3706502aa9918e8aba28185",
           "lastSyncedAt": "2026-09-14T16:11:54.261Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "989",
+      "title": "Add to Array-Form of Integer",
+      "slug": "add-to-array-form-of-integer",
+      "problemName": "0989-add-to-array-form-of-integer",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/add-to-array-form-of-integer/",
+      "folderPath": "0989-add-to-array-form-of-integer/",
+      "readmePath": "0989-add-to-array-form-of-integer/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0989-add-to-array-form-of-integer.java",
+          "path": "0989-add-to-array-form-of-integer/0989-add-to-array-form-of-integer.java",
+          "sha": "2babf105af7b761a936b491df44c3e3bac3dac7f",
+          "lastSyncedAt": "2026-09-19T15:59:53.491Z"
         }
       ]
     },
