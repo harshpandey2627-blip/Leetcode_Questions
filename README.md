@@ -119,4 +119,12 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0278-first-bad-version](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0278-first-bad-version/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0039-combination-sum](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0039-combination-sum/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0039-combination-sum](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0039-combination-sum/) | Medium |
 <!---LeetCode Topics End-->
