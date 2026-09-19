@@ -4,8 +4,28 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-14T16:14:06.726Z",
+  "updatedAt": "2026-09-19T02:50:24.388Z",
   "problems": [
+    {
+      "frontendId": "39",
+      "title": "Combination Sum",
+      "slug": "combination-sum",
+      "problemName": "0039-combination-sum",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/combination-sum/",
+      "folderPath": "0039-combination-sum/",
+      "readmePath": "0039-combination-sum/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0039-combination-sum.java",
+          "path": "0039-combination-sum/0039-combination-sum.java",
+          "sha": "cde03fa7407a8dcb9ac573975746144dc8e2a705",
+          "lastSyncedAt": "2026-09-19T02:50:24.388Z"
+        }
+      ]
+    },
     {
       "frontendId": "74",
       "title": "Search a 2D Matrix",
