@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-16T17:02:17.573Z",
+  "updatedAt": "2026-09-20T18:21:51.017Z",
   "problems": [
     {
       "frontendId": "20",
@@ -103,6 +103,26 @@
           "path": "0168-excel-sheet-column-title/0168-excel-sheet-column-title.java",
           "sha": "94fa67bd3ecfe1677fcf114f837dfedf0613cf30",
           "lastSyncedAt": "2026-09-14T16:12:09.940Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3498",
+      "title": "Reverse Degree of a String",
+      "slug": "reverse-degree-of-a-string",
+      "problemName": "3498-reverse-degree-of-a-string",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/reverse-degree-of-a-string/",
+      "folderPath": "3498-reverse-degree-of-a-string/",
+      "readmePath": "3498-reverse-degree-of-a-string/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3498-reverse-degree-of-a-string.java",
+          "path": "3498-reverse-degree-of-a-string/3498-reverse-degree-of-a-string.java",
+          "sha": "e97ad7727184f56835a4746365617d9da17420b4",
+          "lastSyncedAt": "2026-09-20T18:21:51.017Z"
         }
       ]
     }
