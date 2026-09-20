@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/reverse-degree-of-a-string">3498. Reverse Degree of a String</a></h2><h3>Easy</h3><hr><p>Given a string <code>s</code>, calculate its <strong>reverse degree</strong>.</p>
+<h2><a href="https://leetcode.com/problems/reverse-degree-of-a-string/">3498. Reverse Degree of a String</a></h2><h3>Easy</h3><hr><p>Given a string <code>s</code>, calculate its <strong>reverse degree</strong>.</p>
 
 <p>The <strong>reverse degree</strong> is calculated as follows:</p>
 
