@@ -100,10 +100,12 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0020-valid-parentheses/) | Easy |
 | [0043-multiply-strings](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0043-multiply-strings/) | Medium |
+| [3498-reverse-degree-of-a-string](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0043-multiply-strings](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0043-multiply-strings/) | Medium |
+| [3498-reverse-degree-of-a-string](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
