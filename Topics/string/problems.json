@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-20T18:21:51.017Z",
+  "updatedAt": "2026-09-21T18:04:12.417Z",
   "problems": [
     {
       "frontendId": "20",
@@ -103,6 +103,26 @@
           "path": "0168-excel-sheet-column-title/0168-excel-sheet-column-title.java",
           "sha": "94fa67bd3ecfe1677fcf114f837dfedf0613cf30",
           "lastSyncedAt": "2026-09-14T16:12:09.940Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "345",
+      "title": "Reverse Vowels of a String",
+      "slug": "reverse-vowels-of-a-string",
+      "problemName": "0345-reverse-vowels-of-a-string",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/reverse-vowels-of-a-string/",
+      "folderPath": "0345-reverse-vowels-of-a-string/",
+      "readmePath": "0345-reverse-vowels-of-a-string/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0345-reverse-vowels-of-a-string.java",
+          "path": "0345-reverse-vowels-of-a-string/0345-reverse-vowels-of-a-string.java",
+          "sha": "41ea3b2058ef0a795118647c33f2b809b95e545e",
+          "lastSyncedAt": "2026-09-21T18:04:12.417Z"
         }
       ]
     },
