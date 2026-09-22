@@ -5,19 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 25 | 15 | 9 | 1 |
+| 28 | 18 | 9 | 1 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 17 days | 17 days | 17 |
+| 20 days | 20 days | 20 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-06 | 2 |
-| 2026-09-07 | 1 |
-| 2026-09-08 | 4 |
 | 2026-09-09 | 3 |
 | 2026-09-10 | 1 |
 | 2026-09-11 | 2 |
@@ -29,21 +26,24 @@ Contains topicwise list of solved problems.
 | 2026-09-17 | 1 |
 | 2026-09-18 | 1 |
 | 2026-09-19 | 1 |
+| 2026-09-20 | 1 |
+| 2026-09-21 | 1 |
+| 2026-09-22 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 12 | 48% |
-| Math | 10 | 40% |
-| Binary Search | 8 | 32% |
-| String | 5 | 20% |
-| Bit Manipulation | 3 | 12% |
-| Sorting | 3 | 12% |
-| Divide and Conquer | 2 | 8% |
-| Dynamic Programming | 2 | 8% |
-| Heap (Priority Queue) | 2 | 8% |
-| Interactive | 2 | 8% |
+| Array | 12 | 43% |
+| Math | 10 | 36% |
+| Binary Search | 8 | 29% |
+| String | 8 | 29% |
+| Bit Manipulation | 3 | 11% |
+| Simulation | 3 | 11% |
+| Sorting | 3 | 11% |
+| Two Pointers | 3 | 11% |
+| Divide and Conquer | 2 | 7% |
+| Dynamic Programming | 2 | 7% |
 
 ## Topics
 
@@ -57,6 +57,7 @@ Contains topicwise list of solved problems.
 | [Bit Manipulation](Topics/bit-manipulation/) | 3 |
 | [Boyer–Moore String-Search Algorithm](Topics/boyer-moore-string-search-algorithm/) | 1 |
 | [Bracket Sequences](Topics/bracket-sequences/) | 1 |
+| [Counting](Topics/counting/) | 1 |
 | [Data Structures](Topics/data-structures/) | 0 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 2 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 2 |
@@ -64,7 +65,7 @@ Contains topicwise list of solved problems.
 | [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 1 |
 | [Graph](Topics/graph/) | 0 |
 | [Greedy](Topics/greedy/) | 1 |
-| [Hash Table](Topics/hash-table/) | 1 |
+| [Hash Table](Topics/hash-table/) | 2 |
 | [Heap](Topics/heap/) | 0 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 2 |
 | [Interactive](Topics/interactive/) | 2 |
@@ -75,15 +76,16 @@ Contains topicwise list of solved problems.
 | [Newton's Method](Topics/newtons-method/) | 1 |
 | [Pigeonhole Principle](Topics/pigeonhole-principle/) | 1 |
 | [Prefix Sum](Topics/prefix-sum/) | 1 |
+| [Queue](Topics/queue/) | 1 |
 | [Quickselect](Topics/quickselect/) | 1 |
 | [Recursion](Topics/recursion/) | 2 |
-| [Simulation](Topics/simulation/) | 2 |
+| [Simulation](Topics/simulation/) | 3 |
 | [Sorting](Topics/sorting/) | 3 |
 | [Stack](Topics/stack/) | 1 |
-| [String](Topics/string/) | 5 |
+| [String](Topics/string/) | 8 |
 | [String Matching](Topics/string-matching/) | 1 |
 | [Tree](Topics/tree/) | 1 |
-| [Two Pointers](Topics/two-pointers/) | 2 |
+| [Two Pointers](Topics/two-pointers/) | 3 |
 | [Z Algorithm](Topics/z-algorithm/) | 1 |
 <!---LeetHub Summary End-->
 
