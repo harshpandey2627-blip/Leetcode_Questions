@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "queue",
+    "name": "Queue"
+  },
+  "updatedAt": "2026-09-22T05:10:36.331Z",
+  "problems": [
+    {
+      "frontendId": "387",
+      "title": "First Unique Character in a String",
+      "slug": "first-unique-character-in-a-string",
+      "problemName": "0387-first-unique-character-in-a-string",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/first-unique-character-in-a-string/",
+      "folderPath": "0387-first-unique-character-in-a-string/",
+      "readmePath": "0387-first-unique-character-in-a-string/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0387-first-unique-character-in-a-string.java",
+          "path": "0387-first-unique-character-in-a-string/0387-first-unique-character-in-a-string.java",
+          "sha": "4207a35e8d243ae9d820d6cebabc600c8867d4ab",
+          "lastSyncedAt": "2026-09-22T05:10:36.331Z"
+        }
+      ]
+    }
+  ]
+}
