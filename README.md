@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 28 | 18 | 9 | 1 |
+| 29 | 19 | 9 | 1 |
 
 ## Activity
 
@@ -28,22 +28,22 @@ Contains topicwise list of solved problems.
 | 2026-09-19 | 1 |
 | 2026-09-20 | 1 |
 | 2026-09-21 | 1 |
-| 2026-09-22 | 1 |
+| 2026-09-22 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 12 | 43% |
-| Math | 10 | 36% |
-| Binary Search | 8 | 29% |
-| String | 8 | 29% |
-| Bit Manipulation | 3 | 11% |
-| Simulation | 3 | 11% |
-| Sorting | 3 | 11% |
-| Two Pointers | 3 | 11% |
+| Array | 12 | 41% |
+| Math | 10 | 34% |
+| String | 9 | 31% |
+| Binary Search | 8 | 28% |
+| Sorting | 4 | 14% |
+| Bit Manipulation | 3 | 10% |
+| Hash Table | 3 | 10% |
+| Simulation | 3 | 10% |
+| Two Pointers | 3 | 10% |
 | Divide and Conquer | 2 | 7% |
-| Dynamic Programming | 2 | 7% |
 
 ## Topics
 
@@ -65,7 +65,7 @@ Contains topicwise list of solved problems.
 | [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 1 |
 | [Graph](Topics/graph/) | 0 |
 | [Greedy](Topics/greedy/) | 1 |
-| [Hash Table](Topics/hash-table/) | 2 |
+| [Hash Table](Topics/hash-table/) | 3 |
 | [Heap](Topics/heap/) | 0 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 2 |
 | [Interactive](Topics/interactive/) | 2 |
@@ -80,9 +80,9 @@ Contains topicwise list of solved problems.
 | [Quickselect](Topics/quickselect/) | 1 |
 | [Recursion](Topics/recursion/) | 2 |
 | [Simulation](Topics/simulation/) | 3 |
-| [Sorting](Topics/sorting/) | 3 |
+| [Sorting](Topics/sorting/) | 4 |
 | [Stack](Topics/stack/) | 1 |
-| [String](Topics/string/) | 8 |
+| [String](Topics/string/) | 9 |
 | [String Matching](Topics/string-matching/) | 1 |
 | [Tree](Topics/tree/) | 1 |
 | [Two Pointers](Topics/two-pointers/) | 3 |
