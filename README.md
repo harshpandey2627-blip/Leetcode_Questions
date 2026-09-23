@@ -96,6 +96,7 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0007-reverse-integer/) | Medium |
 | [0043-multiply-strings](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0043-multiply-strings/) | Medium |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0989-add-to-array-form-of-integer](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -105,6 +106,7 @@ Contains topicwise list of solved problems.
 | [0344-reverse-string](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -168,4 +170,8 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0169-majority-element/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 <!---LeetCode Topics End-->
