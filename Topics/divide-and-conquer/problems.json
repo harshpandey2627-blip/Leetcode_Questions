@@ -4,8 +4,28 @@
     "slug": "divide-and-conquer",
     "name": "Divide and Conquer"
   },
-  "updatedAt": "2026-09-14T16:13:20.931Z",
+  "updatedAt": "2026-09-24T15:52:01.973Z",
   "problems": [
+    {
+      "frontendId": "23",
+      "title": "Merge k Sorted Lists",
+      "slug": "merge-k-sorted-lists",
+      "problemName": "0023-merge-k-sorted-lists",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/merge-k-sorted-lists/",
+      "folderPath": "0023-merge-k-sorted-lists/",
+      "readmePath": "0023-merge-k-sorted-lists/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0023-merge-k-sorted-lists.java",
+          "path": "0023-merge-k-sorted-lists/0023-merge-k-sorted-lists.java",
+          "sha": "1be47008b542c99cbe05d7fb0665723da3698c4b",
+          "lastSyncedAt": "2026-09-24T15:52:01.973Z"
+        }
+      ]
+    },
     {
       "frontendId": "108",
       "title": "Convert Sorted Array to Binary Search Tree",
