@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 30 | 20 | 9 | 1 |
+| 31 | 20 | 9 | 2 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 20 days | 20 days | 20 |
+| 1 days | 20 days | 21 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-09 | 3 |
 | 2026-09-10 | 1 |
 | 2026-09-11 | 2 |
 | 2026-09-12 | 1 |
@@ -29,21 +28,22 @@ Contains topicwise list of solved problems.
 | 2026-09-20 | 1 |
 | 2026-09-21 | 1 |
 | 2026-09-22 | 3 |
+| 2026-09-24 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 12 | 40% |
-| Math | 10 | 33% |
-| String | 10 | 33% |
-| Binary Search | 8 | 27% |
+| Array | 12 | 39% |
+| Math | 10 | 32% |
+| String | 10 | 32% |
+| Binary Search | 8 | 26% |
 | Sorting | 4 | 13% |
 | Two Pointers | 4 | 13% |
 | Bit Manipulation | 3 | 10% |
+| Divide and Conquer | 3 | 10% |
 | Hash Table | 3 | 10% |
-| Simulation | 3 | 10% |
-| Divide and Conquer | 2 | 7% |
+| Heap (Priority Queue) | 3 | 10% |
 
 ## Topics
 
@@ -59,7 +59,7 @@ Contains topicwise list of solved problems.
 | [Bracket Sequences](Topics/bracket-sequences/) | 1 |
 | [Counting](Topics/counting/) | 1 |
 | [Data Structures](Topics/data-structures/) | 0 |
-| [Divide and Conquer](Topics/divide-and-conquer/) | 2 |
+| [Divide and Conquer](Topics/divide-and-conquer/) | 3 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 2 |
 | [Enumeration](Topics/enumeration/) | 1 |
 | [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 1 |
@@ -67,12 +67,13 @@ Contains topicwise list of solved problems.
 | [Greedy](Topics/greedy/) | 1 |
 | [Hash Table](Topics/hash-table/) | 3 |
 | [Heap](Topics/heap/) | 0 |
-| [Heap (Priority Queue)](Topics/heap-priority-queue/) | 2 |
+| [Heap (Priority Queue)](Topics/heap-priority-queue/) | 3 |
 | [Interactive](Topics/interactive/) | 2 |
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
-| [Linked List](Topics/linked-list/) | 1 |
+| [Linked List](Topics/linked-list/) | 2 |
 | [Math](Topics/math/) | 10 |
 | [Matrix](Topics/matrix/) | 2 |
+| [Merge Sort](Topics/merge-sort/) | 1 |
 | [Newton's Method](Topics/newtons-method/) | 1 |
 | [Pigeonhole Principle](Topics/pigeonhole-principle/) | 1 |
 | [Prefix Sum](Topics/prefix-sum/) | 1 |
@@ -84,6 +85,7 @@ Contains topicwise list of solved problems.
 | [Stack](Topics/stack/) | 1 |
 | [String](Topics/string/) | 10 |
 | [String Matching](Topics/string-matching/) | 1 |
+| [Tournament Sort](Topics/tournament-sort/) | 1 |
 | [Tree](Topics/tree/) | 1 |
 | [Two Pointers](Topics/two-pointers/) | 4 |
 | [Z Algorithm](Topics/z-algorithm/) | 1 |
