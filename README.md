@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 31 | 20 | 9 | 2 |
+| 32 | 21 | 9 | 2 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 20 days | 21 |
+| 2 days | 20 days | 22 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-10 | 1 |
 | 2026-09-11 | 2 |
 | 2026-09-12 | 1 |
 | 2026-09-13 | 1 |
@@ -29,21 +28,22 @@ Contains topicwise list of solved problems.
 | 2026-09-21 | 1 |
 | 2026-09-22 | 3 |
 | 2026-09-24 | 1 |
+| 2026-09-25 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 12 | 39% |
-| Math | 10 | 32% |
-| String | 10 | 32% |
-| Binary Search | 8 | 26% |
+| Array | 12 | 38% |
+| String | 11 | 34% |
+| Math | 10 | 31% |
+| Binary Search | 8 | 25% |
+| Two Pointers | 5 | 16% |
 | Sorting | 4 | 13% |
-| Two Pointers | 4 | 13% |
-| Bit Manipulation | 3 | 10% |
-| Divide and Conquer | 3 | 10% |
-| Hash Table | 3 | 10% |
-| Heap (Priority Queue) | 3 | 10% |
+| Bit Manipulation | 3 | 9% |
+| Divide and Conquer | 3 | 9% |
+| Hash Table | 3 | 9% |
+| Heap (Priority Queue) | 3 | 9% |
 
 ## Topics
 
@@ -83,11 +83,11 @@ Contains topicwise list of solved problems.
 | [Simulation](Topics/simulation/) | 3 |
 | [Sorting](Topics/sorting/) | 4 |
 | [Stack](Topics/stack/) | 1 |
-| [String](Topics/string/) | 10 |
+| [String](Topics/string/) | 11 |
 | [String Matching](Topics/string-matching/) | 1 |
 | [Tournament Sort](Topics/tournament-sort/) | 1 |
 | [Tree](Topics/tree/) | 1 |
-| [Two Pointers](Topics/two-pointers/) | 4 |
+| [Two Pointers](Topics/two-pointers/) | 5 |
 | [Z Algorithm](Topics/z-algorithm/) | 1 |
 <!---LeetHub Summary End-->
 
