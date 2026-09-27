@@ -4,8 +4,28 @@
     "slug": "binary-search",
     "name": "Binary Search"
   },
-  "updatedAt": "2026-09-17T17:39:04.335Z",
+  "updatedAt": "2026-09-27T16:22:15.930Z",
   "problems": [
+    {
+      "frontendId": "4",
+      "title": "Median of Two Sorted Arrays",
+      "slug": "median-of-two-sorted-arrays",
+      "problemName": "0004-median-of-two-sorted-arrays",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/median-of-two-sorted-arrays/",
+      "folderPath": "0004-median-of-two-sorted-arrays/",
+      "readmePath": "0004-median-of-two-sorted-arrays/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0004-median-of-two-sorted-arrays.java",
+          "path": "0004-median-of-two-sorted-arrays/0004-median-of-two-sorted-arrays.java",
+          "sha": "93cfbc549a47601450395202f715b25da32b20be",
+          "lastSyncedAt": "2026-09-27T16:22:15.930Z"
+        }
+      ]
+    },
     {
       "frontendId": "69",
       "title": "Sqrt(x)",
