@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 32 | 21 | 9 | 2 |
+| 33 | 21 | 10 | 2 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 2 days | 20 days | 22 |
+| 1 days | 20 days | 23 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-11 | 2 |
 | 2026-09-12 | 1 |
 | 2026-09-13 | 1 |
 | 2026-09-14 | 1 |
@@ -29,17 +28,18 @@ Contains topicwise list of solved problems.
 | 2026-09-22 | 3 |
 | 2026-09-24 | 1 |
 | 2026-09-25 | 1 |
+| 2026-09-28 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 12 | 38% |
-| String | 11 | 34% |
-| Math | 10 | 31% |
-| Binary Search | 8 | 25% |
-| Two Pointers | 5 | 16% |
-| Sorting | 4 | 13% |
+| Array | 12 | 36% |
+| Math | 11 | 33% |
+| String | 11 | 33% |
+| Binary Search | 8 | 24% |
+| Two Pointers | 6 | 18% |
+| Sorting | 4 | 12% |
 | Bit Manipulation | 3 | 9% |
 | Divide and Conquer | 3 | 9% |
 | Hash Table | 3 | 9% |
@@ -57,6 +57,7 @@ Contains topicwise list of solved problems.
 | [Bit Manipulation](Topics/bit-manipulation/) | 3 |
 | [Boyer–Moore String-Search Algorithm](Topics/boyer-moore-string-search-algorithm/) | 1 |
 | [Bracket Sequences](Topics/bracket-sequences/) | 1 |
+| [Brainteaser](Topics/brainteaser/) | 1 |
 | [Counting](Topics/counting/) | 1 |
 | [Data Structures](Topics/data-structures/) | 0 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 4 |
@@ -71,7 +72,7 @@ Contains topicwise list of solved problems.
 | [Interactive](Topics/interactive/) | 2 |
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
 | [Linked List](Topics/linked-list/) | 2 |
-| [Math](Topics/math/) | 10 |
+| [Math](Topics/math/) | 11 |
 | [Matrix](Topics/matrix/) | 2 |
 | [Merge Sort](Topics/merge-sort/) | 1 |
 | [Newton's Method](Topics/newtons-method/) | 1 |
@@ -87,7 +88,7 @@ Contains topicwise list of solved problems.
 | [String Matching](Topics/string-matching/) | 1 |
 | [Tournament Sort](Topics/tournament-sort/) | 1 |
 | [Tree](Topics/tree/) | 1 |
-| [Two Pointers](Topics/two-pointers/) | 5 |
+| [Two Pointers](Topics/two-pointers/) | 6 |
 | [Z Algorithm](Topics/z-algorithm/) | 1 |
 <!---LeetHub Summary End-->
 
