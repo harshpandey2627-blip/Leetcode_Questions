@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 33 | 21 | 10 | 2 |
+| 34 | 22 | 10 | 2 |
 
 ## Activity
 
@@ -28,15 +28,15 @@ Contains topicwise list of solved problems.
 | 2026-09-22 | 3 |
 | 2026-09-24 | 1 |
 | 2026-09-25 | 1 |
-| 2026-09-28 | 1 |
+| 2026-09-28 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 12 | 36% |
-| Math | 11 | 33% |
-| String | 11 | 33% |
+| Array | 12 | 35% |
+| String | 12 | 35% |
+| Math | 11 | 32% |
 | Binary Search | 8 | 24% |
 | Two Pointers | 6 | 18% |
 | Sorting | 4 | 12% |
@@ -56,7 +56,7 @@ Contains topicwise list of solved problems.
 | [Binary Tree](Topics/binary-tree/) | 1 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 3 |
 | [Boyer–Moore String-Search Algorithm](Topics/boyer-moore-string-search-algorithm/) | 1 |
-| [Bracket Sequences](Topics/bracket-sequences/) | 1 |
+| [Bracket Sequences](Topics/bracket-sequences/) | 2 |
 | [Brainteaser](Topics/brainteaser/) | 1 |
 | [Counting](Topics/counting/) | 1 |
 | [Data Structures](Topics/data-structures/) | 0 |
@@ -83,8 +83,8 @@ Contains topicwise list of solved problems.
 | [Recursion](Topics/recursion/) | 2 |
 | [Simulation](Topics/simulation/) | 3 |
 | [Sorting](Topics/sorting/) | 4 |
-| [Stack](Topics/stack/) | 1 |
-| [String](Topics/string/) | 11 |
+| [Stack](Topics/stack/) | 2 |
+| [String](Topics/string/) | 12 |
 | [String Matching](Topics/string-matching/) | 1 |
 | [Tournament Sort](Topics/tournament-sort/) | 1 |
 | [Tree](Topics/tree/) | 1 |
