@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-19T15:59:53.491Z",
+  "updatedAt": "2026-09-28T14:46:25.762Z",
   "problems": [
     {
       "frontendId": "7",
@@ -163,6 +163,26 @@
           "path": "0989-add-to-array-form-of-integer/0989-add-to-array-form-of-integer.java",
           "sha": "2babf105af7b761a936b491df44c3e3bac3dac7f",
           "lastSyncedAt": "2026-09-19T15:59:53.491Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2396",
+      "title": "Strictly Palindromic Number",
+      "slug": "strictly-palindromic-number",
+      "problemName": "2396-strictly-palindromic-number",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/strictly-palindromic-number/",
+      "folderPath": "2396-strictly-palindromic-number/",
+      "readmePath": "2396-strictly-palindromic-number/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2396-strictly-palindromic-number.java",
+          "path": "2396-strictly-palindromic-number/2396-strictly-palindromic-number.java",
+          "sha": "cc21e3649955fb02893991ff83f498239e3ac6e4",
+          "lastSyncedAt": "2026-09-28T14:46:25.762Z"
         }
       ]
     },
