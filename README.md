@@ -101,6 +101,7 @@ Contains topicwise list of solved problems.
 | [0043-multiply-strings](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0043-multiply-strings/) | Medium |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0989-add-to-array-form-of-integer](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0989-add-to-array-form-of-integer/) | Easy |
+| [2396-strictly-palindromic-number](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/2396-strictly-palindromic-number/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -151,6 +152,7 @@ Contains topicwise list of solved problems.
 | [0125-valid-palindrome](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [2396-strictly-palindromic-number](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/2396-strictly-palindromic-number/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -204,4 +206,8 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0002-add-two-numbers/) | Medium |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2396-strictly-palindromic-number](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/2396-strictly-palindromic-number/) | Medium |
 <!---LeetCode Topics End-->
