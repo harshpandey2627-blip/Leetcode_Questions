@@ -4,7 +4,7 @@
     "slug": "linked-list",
     "name": "Linked List"
   },
-  "updatedAt": "2026-09-29T06:06:08.101Z",
+  "updatedAt": "2026-09-29T06:09:30.692Z",
   "problems": [
     {
       "frontendId": "2",
@@ -23,6 +23,26 @@
           "path": "0002-add-two-numbers/0002-add-two-numbers.java",
           "sha": "bf15208a3825f4d9d477603680dab718577dba30",
           "lastSyncedAt": "2026-09-29T06:03:17.509Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "21",
+      "title": "Merge Two Sorted Lists",
+      "slug": "merge-two-sorted-lists",
+      "problemName": "0021-merge-two-sorted-lists",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/merge-two-sorted-lists/",
+      "folderPath": "0021-merge-two-sorted-lists/",
+      "readmePath": "0021-merge-two-sorted-lists/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0021-merge-two-sorted-lists.java",
+          "path": "0021-merge-two-sorted-lists/0021-merge-two-sorted-lists.java",
+          "sha": "22e6c16f505c5fd3014b495a0e1c2ccf4a103f4a",
+          "lastSyncedAt": "2026-09-29T06:09:30.692Z"
         }
       ]
     },
