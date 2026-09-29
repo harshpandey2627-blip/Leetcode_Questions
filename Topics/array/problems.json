@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-27T16:22:15.930Z",
+  "updatedAt": "2026-09-29T06:02:30.461Z",
   "problems": [
     {
       "frontendId": "4",
@@ -243,6 +243,26 @@
           "path": "0989-add-to-array-form-of-integer/0989-add-to-array-form-of-integer.java",
           "sha": "2babf105af7b761a936b491df44c3e3bac3dac7f",
           "lastSyncedAt": "2026-09-19T15:59:53.491Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2267",
+      "title": " Check if There Is a Valid Parentheses String Path",
+      "slug": "check-if-there-is-a-valid-parentheses-string-path",
+      "problemName": "2267-check-if-there-is-a-valid-parentheses-string-path",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/check-if-there-is-a-valid-parentheses-string-path/",
+      "folderPath": "2267-check-if-there-is-a-valid-parentheses-string-path/",
+      "readmePath": "2267-check-if-there-is-a-valid-parentheses-string-path/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2267-check-if-there-is-a-valid-parentheses-string-path.java",
+          "path": "2267-check-if-there-is-a-valid-parentheses-string-path/2267-check-if-there-is-a-valid-parentheses-string-path.java",
+          "sha": "fcfebf9398d596592dc9fb9c4edd951ce1d09415",
+          "lastSyncedAt": "2026-09-29T06:02:30.461Z"
         }
       ]
     },
