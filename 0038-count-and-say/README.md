@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/count-and-say">38. Count and Say</a></h2><h3>Medium</h3><hr><p>The <strong>count-and-say</strong> sequence is a sequence of digit strings defined by the recursive formula:</p>
+<h2><a href="https://leetcode.com/problems/count-and-say/">38. Count and Say</a></h2><h3>Medium</h3><hr><p>The <strong>count-and-say</strong> sequence is a sequence of digit strings defined by the recursive formula:</p>
 
 <ul>
 	<li><code>countAndSay(1) = &quot;1&quot;</code></li>
