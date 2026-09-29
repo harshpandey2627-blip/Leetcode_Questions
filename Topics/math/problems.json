@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-29T06:04:06.006Z",
+  "updatedAt": "2026-09-29T06:05:05.286Z",
   "problems": [
     {
       "frontendId": "2",
@@ -202,7 +202,7 @@
           "filename": "0989-add-to-array-form-of-integer.java",
           "path": "0989-add-to-array-form-of-integer/0989-add-to-array-form-of-integer.java",
           "sha": "2babf105af7b761a936b491df44c3e3bac3dac7f",
-          "lastSyncedAt": "2026-09-19T15:59:53.491Z"
+          "lastSyncedAt": "2026-09-29T06:05:05.286Z"
         }
       ]
     },
