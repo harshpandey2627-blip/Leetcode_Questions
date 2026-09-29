@@ -107,6 +107,7 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0020-valid-parentheses/) | Easy |
+| [0038-count-and-say](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0038-count-and-say/) | Medium |
 | [0043-multiply-strings](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0043-multiply-strings/) | Medium |
 | [0125-valid-palindrome](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0125-valid-palindrome/) | Easy |
 | [0205-isomorphic-strings](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0205-isomorphic-strings/) | Easy |
