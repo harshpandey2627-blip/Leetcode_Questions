@@ -4,6 +4,27 @@
     "slug": "backtracking",
     "name": "Backtracking"
   },
-  "updatedAt": "2026-09-14T15:55:26.776Z",
-  "problems": []
+  "updatedAt": "2026-09-29T06:05:10.525Z",
+  "problems": [
+    {
+      "frontendId": "39",
+      "title": "Combination Sum",
+      "slug": "combination-sum",
+      "problemName": "0039-combination-sum",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/combination-sum/",
+      "folderPath": "0039-combination-sum/",
+      "readmePath": "0039-combination-sum/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0039-combination-sum.java",
+          "path": "0039-combination-sum/0039-combination-sum.java",
+          "sha": "cde03fa7407a8dcb9ac573975746144dc8e2a705",
+          "lastSyncedAt": "2026-09-29T06:05:10.525Z"
+        }
+      ]
+    }
+  ]
 }
