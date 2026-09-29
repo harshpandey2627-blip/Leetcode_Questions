@@ -4,7 +4,7 @@
     "slug": "interactive",
     "name": "Interactive"
   },
-  "updatedAt": "2026-09-17T17:39:04.335Z",
+  "updatedAt": "2026-09-29T06:05:20.614Z",
   "problems": [
     {
       "frontendId": "278",
@@ -22,7 +22,7 @@
           "filename": "0278-first-bad-version.java",
           "path": "0278-first-bad-version/0278-first-bad-version.java",
           "sha": "6883e229bb32781b9af039ce7f236c4b22651b2f",
-          "lastSyncedAt": "2026-09-17T17:39:04.335Z"
+          "lastSyncedAt": "2026-09-29T06:05:20.614Z"
         }
       ]
     },
