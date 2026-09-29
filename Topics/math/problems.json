@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-29T06:07:41.662Z",
+  "updatedAt": "2026-09-29T06:08:39.554Z",
   "problems": [
     {
       "frontendId": "2",
@@ -142,7 +142,7 @@
           "filename": "0069-sqrtx.java",
           "path": "0069-sqrtx/0069-sqrtx.java",
           "sha": "b34e67f61da25b98c05689d5dcd2e580610e1d94",
-          "lastSyncedAt": "2026-09-14T16:13:32.231Z"
+          "lastSyncedAt": "2026-09-29T06:08:39.554Z"
         }
       ]
     },
