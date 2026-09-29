@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-29T06:03:25.633Z",
+  "updatedAt": "2026-09-29T06:04:06.006Z",
   "problems": [
     {
       "frontendId": "20",
@@ -243,6 +243,26 @@
           "path": "0387-first-unique-character-in-a-string/0387-first-unique-character-in-a-string.java",
           "sha": "4207a35e8d243ae9d820d6cebabc600c8867d4ab",
           "lastSyncedAt": "2026-09-22T05:10:36.331Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "405",
+      "title": "Convert a Number to Hexadecimal",
+      "slug": "convert-a-number-to-hexadecimal",
+      "problemName": "0405-convert-a-number-to-hexadecimal",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/convert-a-number-to-hexadecimal/",
+      "folderPath": "0405-convert-a-number-to-hexadecimal/",
+      "readmePath": "0405-convert-a-number-to-hexadecimal/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0405-convert-a-number-to-hexadecimal.java",
+          "path": "0405-convert-a-number-to-hexadecimal/0405-convert-a-number-to-hexadecimal.java",
+          "sha": "e8b2f43e5d44eb5cdfe5e713f4c7d5f56000ed77",
+          "lastSyncedAt": "2026-09-29T06:04:06.006Z"
         }
       ]
     },
