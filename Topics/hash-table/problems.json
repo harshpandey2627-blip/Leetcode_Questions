@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-09-29T06:02:40.673Z",
+  "updatedAt": "2026-09-29T06:04:15.843Z",
   "problems": [
     {
       "frontendId": "205",
@@ -42,7 +42,7 @@
           "filename": "0242-valid-anagram.java",
           "path": "0242-valid-anagram/0242-valid-anagram.java",
           "sha": "a5a93e82544c98e66aff252722992882af2a60c2",
-          "lastSyncedAt": "2026-09-22T14:40:46.418Z"
+          "lastSyncedAt": "2026-09-29T06:04:15.843Z"
         }
       ]
     },
