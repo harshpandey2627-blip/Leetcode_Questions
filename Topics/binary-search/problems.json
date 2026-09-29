@@ -4,7 +4,7 @@
     "slug": "binary-search",
     "name": "Binary Search"
   },
-  "updatedAt": "2026-09-29T06:06:28.612Z",
+  "updatedAt": "2026-09-29T06:06:33.865Z",
   "problems": [
     {
       "frontendId": "4",
@@ -142,7 +142,7 @@
           "filename": "0378-kth-smallest-element-in-a-sorted-matrix.java",
           "path": "0378-kth-smallest-element-in-a-sorted-matrix/0378-kth-smallest-element-in-a-sorted-matrix.java",
           "sha": "e05bb8b89ea7ccc0f7869cc24370e98801bc05c9",
-          "lastSyncedAt": "2026-09-14T16:11:25.436Z"
+          "lastSyncedAt": "2026-09-29T06:06:33.865Z"
         }
       ]
     },
