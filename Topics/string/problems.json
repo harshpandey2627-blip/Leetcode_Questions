@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-29T06:02:24.297Z",
+  "updatedAt": "2026-09-29T06:02:40.673Z",
   "problems": [
     {
       "frontendId": "20",
@@ -143,6 +143,26 @@
           "path": "0168-excel-sheet-column-title/0168-excel-sheet-column-title.java",
           "sha": "94fa67bd3ecfe1677fcf114f837dfedf0613cf30",
           "lastSyncedAt": "2026-09-14T16:12:09.940Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "205",
+      "title": "Isomorphic Strings",
+      "slug": "isomorphic-strings",
+      "problemName": "0205-isomorphic-strings",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/isomorphic-strings/",
+      "folderPath": "0205-isomorphic-strings/",
+      "readmePath": "0205-isomorphic-strings/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0205-isomorphic-strings.java",
+          "path": "0205-isomorphic-strings/0205-isomorphic-strings.java",
+          "sha": "a3bbae2f81e8f26a649e9fd53a2818d23ddf4d63",
+          "lastSyncedAt": "2026-09-29T06:02:40.673Z"
         }
       ]
     },
