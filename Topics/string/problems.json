@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-29T06:04:54.453Z",
+  "updatedAt": "2026-09-29T06:05:00.338Z",
   "problems": [
     {
       "frontendId": "20",
@@ -302,7 +302,7 @@
           "filename": "3498-reverse-degree-of-a-string.java",
           "path": "3498-reverse-degree-of-a-string/3498-reverse-degree-of-a-string.java",
           "sha": "e97ad7727184f56835a4746365617d9da17420b4",
-          "lastSyncedAt": "2026-09-20T18:21:51.017Z"
+          "lastSyncedAt": "2026-09-29T06:05:00.338Z"
         }
       ]
     }
