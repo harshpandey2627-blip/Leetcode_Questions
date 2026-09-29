@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-29T06:05:05.286Z",
+  "updatedAt": "2026-09-29T06:05:10.525Z",
   "problems": [
     {
       "frontendId": "4",
@@ -42,7 +42,7 @@
           "filename": "0039-combination-sum.java",
           "path": "0039-combination-sum/0039-combination-sum.java",
           "sha": "cde03fa7407a8dcb9ac573975746144dc8e2a705",
-          "lastSyncedAt": "2026-09-19T02:50:24.388Z"
+          "lastSyncedAt": "2026-09-29T06:05:10.525Z"
         }
       ]
     },
