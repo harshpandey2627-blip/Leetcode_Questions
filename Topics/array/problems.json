@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-29T06:08:57.489Z",
+  "updatedAt": "2026-09-29T06:09:13.758Z",
   "problems": [
     {
       "frontendId": "4",
@@ -23,6 +23,26 @@
           "path": "0004-median-of-two-sorted-arrays/0004-median-of-two-sorted-arrays.java",
           "sha": "93cfbc549a47601450395202f715b25da32b20be",
           "lastSyncedAt": "2026-09-29T06:03:03.745Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "27",
+      "title": "Remove Element",
+      "slug": "remove-element",
+      "problemName": "0027-remove-element",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-element/",
+      "folderPath": "0027-remove-element/",
+      "readmePath": "0027-remove-element/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0027-remove-element.java",
+          "path": "0027-remove-element/0027-remove-element.java",
+          "sha": "cd8d7fa2026666721d8e8a0cdb5f4a7eabac9bb2",
+          "lastSyncedAt": "2026-09-29T06:09:13.758Z"
         }
       ]
     },
