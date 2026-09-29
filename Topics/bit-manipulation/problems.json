@@ -4,7 +4,7 @@
     "slug": "bit-manipulation",
     "name": "Bit Manipulation"
   },
-  "updatedAt": "2026-09-14T16:12:33.707Z",
+  "updatedAt": "2026-09-29T06:04:06.006Z",
   "problems": [
     {
       "frontendId": "29",
@@ -63,6 +63,26 @@
           "path": "0287-find-the-duplicate-number/0287-find-the-duplicate-number.java",
           "sha": "50ad19ceea205bf9972a0923af64539c1f3e841c",
           "lastSyncedAt": "2026-09-14T16:11:40.414Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "405",
+      "title": "Convert a Number to Hexadecimal",
+      "slug": "convert-a-number-to-hexadecimal",
+      "problemName": "0405-convert-a-number-to-hexadecimal",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/convert-a-number-to-hexadecimal/",
+      "folderPath": "0405-convert-a-number-to-hexadecimal/",
+      "readmePath": "0405-convert-a-number-to-hexadecimal/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0405-convert-a-number-to-hexadecimal.java",
+          "path": "0405-convert-a-number-to-hexadecimal/0405-convert-a-number-to-hexadecimal.java",
+          "sha": "e8b2f43e5d44eb5cdfe5e713f4c7d5f56000ed77",
+          "lastSyncedAt": "2026-09-29T06:04:06.006Z"
         }
       ]
     }
