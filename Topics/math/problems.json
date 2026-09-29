@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-29T06:07:37.847Z",
+  "updatedAt": "2026-09-29T06:07:41.662Z",
   "problems": [
     {
       "frontendId": "2",
@@ -122,7 +122,7 @@
           "filename": "0067-add-binary.java",
           "path": "0067-add-binary/0067-add-binary.java",
           "sha": "425a8d0495a1ddcbd4becb935ddaa5dfc504f3e9",
-          "lastSyncedAt": "2026-09-14T16:12:33.707Z"
+          "lastSyncedAt": "2026-09-29T06:07:41.662Z"
         }
       ]
     },
