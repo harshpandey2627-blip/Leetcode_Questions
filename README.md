@@ -66,7 +66,7 @@ Contains topicwise list of solved problems.
 | [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 1 |
 | [Graph](Topics/graph/) | 0 |
 | [Greedy](Topics/greedy/) | 1 |
-| [Hash Table](Topics/hash-table/) | 3 |
+| [Hash Table](Topics/hash-table/) | 4 |
 | [Heap](Topics/heap/) | 0 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 3 |
 | [Interactive](Topics/interactive/) | 2 |
