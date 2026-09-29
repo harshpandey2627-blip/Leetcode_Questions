@@ -4,7 +4,7 @@
     "slug": "sorting",
     "name": "Sorting"
   },
-  "updatedAt": "2026-09-29T06:07:16.486Z",
+  "updatedAt": "2026-09-29T06:08:52.570Z",
   "problems": [
     {
       "frontendId": "169",
@@ -102,7 +102,7 @@
           "filename": "0414-third-maximum-number.java",
           "path": "0414-third-maximum-number/0414-third-maximum-number.java",
           "sha": "10c4f3969c6d4a566ddf4c8f7593cb71e798ba1b",
-          "lastSyncedAt": "2026-09-14T16:13:47.482Z"
+          "lastSyncedAt": "2026-09-29T06:08:52.570Z"
         }
       ]
     }
