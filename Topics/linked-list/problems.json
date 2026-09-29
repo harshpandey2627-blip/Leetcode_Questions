@@ -4,7 +4,7 @@
     "slug": "linked-list",
     "name": "Linked List"
   },
-  "updatedAt": "2026-09-29T06:03:17.509Z",
+  "updatedAt": "2026-09-29T06:03:36.662Z",
   "problems": [
     {
       "frontendId": "2",
@@ -42,7 +42,7 @@
           "filename": "0023-merge-k-sorted-lists.java",
           "path": "0023-merge-k-sorted-lists/0023-merge-k-sorted-lists.java",
           "sha": "1be47008b542c99cbe05d7fb0665723da3698c4b",
-          "lastSyncedAt": "2026-09-24T15:52:01.973Z"
+          "lastSyncedAt": "2026-09-29T06:03:36.662Z"
         }
       ]
     },
