@@ -4,7 +4,7 @@
     "slug": "matrix",
     "name": "Matrix"
   },
-  "updatedAt": "2026-09-14T16:11:34.925Z",
+  "updatedAt": "2026-09-29T06:02:30.461Z",
   "problems": [
     {
       "frontendId": "74",
@@ -43,6 +43,26 @@
           "path": "0378-kth-smallest-element-in-a-sorted-matrix/0378-kth-smallest-element-in-a-sorted-matrix.java",
           "sha": "e05bb8b89ea7ccc0f7869cc24370e98801bc05c9",
           "lastSyncedAt": "2026-09-14T16:11:25.436Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2267",
+      "title": " Check if There Is a Valid Parentheses String Path",
+      "slug": "check-if-there-is-a-valid-parentheses-string-path",
+      "problemName": "2267-check-if-there-is-a-valid-parentheses-string-path",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/check-if-there-is-a-valid-parentheses-string-path/",
+      "folderPath": "2267-check-if-there-is-a-valid-parentheses-string-path/",
+      "readmePath": "2267-check-if-there-is-a-valid-parentheses-string-path/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2267-check-if-there-is-a-valid-parentheses-string-path.java",
+          "path": "2267-check-if-there-is-a-valid-parentheses-string-path/2267-check-if-there-is-a-valid-parentheses-string-path.java",
+          "sha": "fcfebf9398d596592dc9fb9c4edd951ce1d09415",
+          "lastSyncedAt": "2026-09-29T06:02:30.461Z"
         }
       ]
     }
