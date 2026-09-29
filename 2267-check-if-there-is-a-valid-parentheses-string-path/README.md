@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/check-if-there-is-a-valid-parentheses-string-path">2267.  Check if There Is a Valid Parentheses String Path</a></h2><h3>Hard</h3><hr><p>A parentheses string is a <strong>non-empty</strong> string consisting only of <code>&#39;(&#39;</code> and <code>&#39;)&#39;</code>. It is <strong>valid</strong> if <strong>any</strong> of the following conditions is <strong>true</strong>:</p>
+<h2><a href="https://leetcode.com/problems/check-if-there-is-a-valid-parentheses-string-path/">2267.  Check if There Is a Valid Parentheses String Path</a></h2><h3>Hard</h3><hr><p>A parentheses string is a <strong>non-empty</strong> string consisting only of <code>&#39;(&#39;</code> and <code>&#39;)&#39;</code>. It is <strong>valid</strong> if <strong>any</strong> of the following conditions is <strong>true</strong>:</p>
 
 <ul>
 	<li>It is <code>()</code>.</li>
