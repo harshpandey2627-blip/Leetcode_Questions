@@ -4,7 +4,7 @@
     "slug": "binary-search",
     "name": "Binary Search"
   },
-  "updatedAt": "2026-09-27T16:22:15.930Z",
+  "updatedAt": "2026-09-29T06:03:03.745Z",
   "problems": [
     {
       "frontendId": "4",
@@ -22,7 +22,7 @@
           "filename": "0004-median-of-two-sorted-arrays.java",
           "path": "0004-median-of-two-sorted-arrays/0004-median-of-two-sorted-arrays.java",
           "sha": "93cfbc549a47601450395202f715b25da32b20be",
-          "lastSyncedAt": "2026-09-27T16:22:15.930Z"
+          "lastSyncedAt": "2026-09-29T06:03:03.745Z"
         }
       ]
     },
