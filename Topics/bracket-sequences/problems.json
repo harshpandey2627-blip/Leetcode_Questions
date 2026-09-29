@@ -4,7 +4,7 @@
     "slug": "bracket-sequences",
     "name": "Bracket Sequences"
   },
-  "updatedAt": "2026-09-29T06:02:46.988Z",
+  "updatedAt": "2026-09-29T06:05:27.489Z",
   "problems": [
     {
       "frontendId": "20",
@@ -22,7 +22,7 @@
           "filename": "0020-valid-parentheses.java",
           "path": "0020-valid-parentheses/0020-valid-parentheses.java",
           "sha": "2099ccf9cf5043c1ab407bfa02e1621cd8353824",
-          "lastSyncedAt": "2026-09-16T17:02:17.573Z"
+          "lastSyncedAt": "2026-09-29T06:05:27.489Z"
         }
       ]
     },
