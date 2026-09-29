@@ -4,7 +4,7 @@
     "slug": "counting",
     "name": "Counting"
   },
-  "updatedAt": "2026-09-29T06:04:25.887Z",
+  "updatedAt": "2026-09-29T06:04:45.400Z",
   "problems": [
     {
       "frontendId": "169",
@@ -42,7 +42,7 @@
           "filename": "0387-first-unique-character-in-a-string.java",
           "path": "0387-first-unique-character-in-a-string/0387-first-unique-character-in-a-string.java",
           "sha": "4207a35e8d243ae9d820d6cebabc600c8867d4ab",
-          "lastSyncedAt": "2026-09-22T05:10:36.331Z"
+          "lastSyncedAt": "2026-09-29T06:04:45.400Z"
         }
       ]
     }
