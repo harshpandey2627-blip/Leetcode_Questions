@@ -115,6 +115,7 @@ Contains topicwise list of solved problems.
 | [0345-reverse-vowels-of-a-string](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [3498-reverse-degree-of-a-string](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -125,10 +126,12 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0020-valid-parentheses/) | Easy |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0020-valid-parentheses/) | Easy |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
