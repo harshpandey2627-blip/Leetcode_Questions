@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 35 | 22 | 11 | 2 |
+| 39 | 25 | 12 | 2 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 2 days | 20 days | 24 |
+| 3 days | 23 days | 28 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-13 | 1 |
 | 2026-09-14 | 1 |
 | 2026-09-15 | 1 |
 | 2026-09-16 | 1 |
@@ -29,66 +28,68 @@ Contains topicwise list of solved problems.
 | 2026-09-25 | 1 |
 | 2026-09-28 | 2 |
 | 2026-09-29 | 1 |
+| 2026-09-30 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| String | 13 | 37% |
-| Array | 12 | 34% |
-| Math | 11 | 31% |
-| Binary Search | 8 | 23% |
-| Two Pointers | 6 | 17% |
-| Sorting | 4 | 11% |
-| Bit Manipulation | 3 | 9% |
-| Divide and Conquer | 3 | 9% |
-| Hash Table | 3 | 9% |
-| Heap (Priority Queue) | 3 | 9% |
+| String | 15 | 38% |
+| Array | 13 | 33% |
+| Math | 11 | 28% |
+| Binary Search | 8 | 21% |
+| Two Pointers | 7 | 18% |
+| Sorting | 4 | 10% |
+| Bit Manipulation | 3 | 8% |
+| Bracket Sequences | 3 | 8% |
+| Divide and Conquer | 3 | 8% |
+| Hash Table | 3 | 8% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 14 |
-| [Backtracking](Topics/backtracking/) | 0 |
+| [Array](Topics/array/) | 17 |
+| [Backtracking](Topics/backtracking/) | 1 |
 | [Binary Search](Topics/binary-search/) | 9 |
 | [Binary Search Tree](Topics/binary-search-tree/) | 1 |
 | [Binary Tree](Topics/binary-tree/) | 1 |
-| [Bit Manipulation](Topics/bit-manipulation/) | 3 |
+| [Bit Manipulation](Topics/bit-manipulation/) | 4 |
+| [Boyer–Moore Majority Vote Algorithm](Topics/boyer-moore-majority-vote-algorithm/) | 1 |
 | [Boyer–Moore String-Search Algorithm](Topics/boyer-moore-string-search-algorithm/) | 1 |
-| [Bracket Sequences](Topics/bracket-sequences/) | 2 |
+| [Bracket Sequences](Topics/bracket-sequences/) | 4 |
 | [Brainteaser](Topics/brainteaser/) | 1 |
-| [Counting](Topics/counting/) | 1 |
+| [Counting](Topics/counting/) | 2 |
 | [Data Structures](Topics/data-structures/) | 0 |
-| [Divide and Conquer](Topics/divide-and-conquer/) | 4 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 2 |
+| [Divide and Conquer](Topics/divide-and-conquer/) | 5 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 3 |
 | [Enumeration](Topics/enumeration/) | 1 |
 | [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 1 |
 | [Graph](Topics/graph/) | 0 |
 | [Greedy](Topics/greedy/) | 1 |
-| [Hash Table](Topics/hash-table/) | 4 |
+| [Hash Table](Topics/hash-table/) | 5 |
 | [Heap](Topics/heap/) | 0 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 3 |
 | [Interactive](Topics/interactive/) | 2 |
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
-| [Linked List](Topics/linked-list/) | 2 |
-| [Math](Topics/math/) | 11 |
-| [Matrix](Topics/matrix/) | 2 |
+| [Linked List](Topics/linked-list/) | 4 |
+| [Math](Topics/math/) | 13 |
+| [Matrix](Topics/matrix/) | 3 |
 | [Merge Sort](Topics/merge-sort/) | 1 |
 | [Newton's Method](Topics/newtons-method/) | 1 |
 | [Pigeonhole Principle](Topics/pigeonhole-principle/) | 1 |
 | [Prefix Sum](Topics/prefix-sum/) | 1 |
 | [Queue](Topics/queue/) | 1 |
 | [Quickselect](Topics/quickselect/) | 1 |
-| [Recursion](Topics/recursion/) | 2 |
+| [Recursion](Topics/recursion/) | 4 |
 | [Simulation](Topics/simulation/) | 3 |
-| [Sorting](Topics/sorting/) | 4 |
-| [Stack](Topics/stack/) | 2 |
-| [String](Topics/string/) | 13 |
+| [Sorting](Topics/sorting/) | 5 |
+| [Stack](Topics/stack/) | 3 |
+| [String](Topics/string/) | 17 |
 | [String Matching](Topics/string-matching/) | 1 |
 | [Tournament Sort](Topics/tournament-sort/) | 1 |
 | [Tree](Topics/tree/) | 1 |
-| [Two Pointers](Topics/two-pointers/) | 6 |
+| [Two Pointers](Topics/two-pointers/) | 7 |
 | [Z Algorithm](Topics/z-algorithm/) | 1 |
 <!---LeetHub Summary End-->
 
