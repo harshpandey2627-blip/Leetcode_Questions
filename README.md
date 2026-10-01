@@ -102,6 +102,7 @@ Contains topicwise list of solved problems.
 | [0002-add-two-numbers](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0002-add-two-numbers/) | Medium |
 | [0007-reverse-integer](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0007-reverse-integer/) | Medium |
 | [0043-multiply-strings](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0043-multiply-strings/) | Medium |
+| [0070-climbing-stairs](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0070-climbing-stairs/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0509-fibonacci-number](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0509-fibonacci-number/) | Easy |
 | [0989-add-to-array-form-of-integer](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0989-add-to-array-form-of-integer/) | Easy |
@@ -226,6 +227,7 @@ Contains topicwise list of solved problems.
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0509-fibonacci-number/) | Easy |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 ## Matrix
@@ -235,5 +237,6 @@ Contains topicwise list of solved problems.
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
