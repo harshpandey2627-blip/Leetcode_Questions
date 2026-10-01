@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 40 | 26 | 12 | 2 |
+| 41 | 27 | 12 | 2 |
 
 ## Activity
 
@@ -28,22 +28,22 @@ Contains topicwise list of solved problems.
 | 2026-09-28 | 2 |
 | 2026-09-29 | 1 |
 | 2026-09-30 | 1 |
-| 2026-10-01 | 1 |
+| 2026-10-01 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| String | 15 | 38% |
-| Array | 13 | 33% |
-| Math | 12 | 30% |
+| String | 15 | 37% |
+| Array | 13 | 32% |
+| Math | 13 | 32% |
 | Binary Search | 8 | 20% |
-| Two Pointers | 7 | 18% |
+| Two Pointers | 7 | 17% |
+| Dynamic Programming | 4 | 10% |
 | Recursion | 4 | 10% |
 | Sorting | 4 | 10% |
-| Bit Manipulation | 3 | 8% |
-| Bracket Sequences | 3 | 8% |
-| Divide and Conquer | 3 | 8% |
+| Bit Manipulation | 3 | 7% |
+| Bracket Sequences | 3 | 7% |
 
 ## Topics
 
@@ -62,7 +62,7 @@ Contains topicwise list of solved problems.
 | [Counting](Topics/counting/) | 2 |
 | [Data Structures](Topics/data-structures/) | 0 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 5 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 4 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 5 |
 | [Enumeration](Topics/enumeration/) | 1 |
 | [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 1 |
 | [Graph](Topics/graph/) | 0 |
@@ -73,16 +73,16 @@ Contains topicwise list of solved problems.
 | [Interactive](Topics/interactive/) | 2 |
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
 | [Linked List](Topics/linked-list/) | 4 |
-| [Math](Topics/math/) | 14 |
+| [Math](Topics/math/) | 15 |
 | [Matrix](Topics/matrix/) | 3 |
-| [Memoization](Topics/memoization/) | 1 |
+| [Memoization](Topics/memoization/) | 2 |
 | [Merge Sort](Topics/merge-sort/) | 1 |
 | [Newton's Method](Topics/newtons-method/) | 1 |
 | [Pigeonhole Principle](Topics/pigeonhole-principle/) | 1 |
 | [Prefix Sum](Topics/prefix-sum/) | 1 |
 | [Queue](Topics/queue/) | 1 |
 | [Quickselect](Topics/quickselect/) | 1 |
-| [Recursion](Topics/recursion/) | 5 |
+| [recursion](Topics/recursion/) | 0 |
 | [Simulation](Topics/simulation/) | 3 |
 | [Sorting](Topics/sorting/) | 5 |
 | [Stack](Topics/stack/) | 3 |
