@@ -114,6 +114,7 @@ Contains topicwise list of solved problems.
 | [0038-count-and-say](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0038-count-and-say/) | Medium |
 | [0043-multiply-strings](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0043-multiply-strings/) | Medium |
 | [0125-valid-palindrome](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0125-valid-palindrome/) | Easy |
+| [0139-word-break](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0139-word-break/) | Medium |
 | [0205-isomorphic-strings](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0205-isomorphic-strings/) | Easy |
 | [0344-reverse-string](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
@@ -151,6 +152,7 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0039-combination-sum](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0039-combination-sum/) | Medium |
+| [0139-word-break](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0139-word-break/) | Medium |
 | [0169-majority-element](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0169-majority-element/) | Easy |
 | [0989-add-to-array-form-of-integer](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
@@ -168,6 +170,7 @@ Contains topicwise list of solved problems.
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0139-word-break](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0139-word-break/) | Medium |
 | [0169-majority-element](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0169-majority-element/) | Easy |
 | [0205-isomorphic-strings](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0205-isomorphic-strings/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
@@ -228,6 +231,7 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0070-climbing-stairs/) | Easy |
+| [0139-word-break](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0139-word-break/) | Medium |
 | [0509-fibonacci-number](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0509-fibonacci-number/) | Easy |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 ## Matrix
@@ -238,5 +242,14 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0070-climbing-stairs/) | Easy |
+| [0139-word-break](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0139-word-break/) | Medium |
 | [0509-fibonacci-number](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0509-fibonacci-number/) | Easy |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0139-word-break](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0139-word-break/) | Medium |
+## Brute-Force Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0139-word-break](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0139-word-break/) | Medium |
 <!---LeetCode Topics End-->
