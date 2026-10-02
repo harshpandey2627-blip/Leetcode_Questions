@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-10-02T15:50:29.011Z",
+  "updatedAt": "2026-10-02T15:53:21.109Z",
   "problems": [
     {
       "frontendId": "4",
@@ -143,6 +143,14 @@
           "path": "0139-word-break/0139-word-break.java",
           "sha": "a81113aa44a2a0c52b52c2d47849b6b647a919d5",
           "lastSyncedAt": "2026-10-02T15:50:29.011Z"
+        },
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0139-word-break.py",
+          "path": "0139-word-break/0139-word-break.py",
+          "sha": "a50e0cdd77185f86f8518f5282452696c587ff07",
+          "lastSyncedAt": "2026-10-02T15:53:21.109Z"
         }
       ]
     },
