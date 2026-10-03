@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-10-03T05:59:54.791Z",
+  "updatedAt": "2026-10-03T06:00:23.551Z",
   "problems": [
     {
       "frontendId": "20",
@@ -63,6 +63,14 @@
           "path": "0032-longest-valid-parentheses/0032-longest-valid-parentheses.java",
           "sha": "d0a369fbb24d8228954b281bbbdb4b68bd505c5d",
           "lastSyncedAt": "2026-10-03T05:59:54.791Z"
+        },
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0032-longest-valid-parentheses.py",
+          "path": "0032-longest-valid-parentheses/0032-longest-valid-parentheses.py",
+          "sha": "179a8315b615318c309f252b46c5bb0ff92cc53e",
+          "lastSyncedAt": "2026-10-03T06:00:23.551Z"
         }
       ]
     },
