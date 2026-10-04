@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 51 | 34 | 14 | 3 |
+| 52 | 35 | 14 | 3 |
 
 ## Activity
 
@@ -28,17 +28,17 @@ Contains topicwise list of solved problems.
 | 2026-10-01 | 2 |
 | 2026-10-02 | 1 |
 | 2026-10-03 | 1 |
-| 2026-10-04 | 8 |
+| 2026-10-04 | 9 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| String | 17 | 33% |
+| String | 18 | 35% |
 | Array | 14 | 27% |
 | Math | 13 | 25% |
-| Binary Search | 8 | 16% |
-| Two Pointers | 7 | 14% |
+| Binary Search | 8 | 15% |
+| Two Pointers | 7 | 13% |
 | Dynamic Programming | 6 | 12% |
 | Bracket Sequences | 4 | 8% |
 | Hash Table | 4 | 8% |
@@ -87,7 +87,7 @@ Contains topicwise list of solved problems.
 | [Simulation](Topics/simulation/) | 3 |
 | [Sorting](Topics/sorting/) | 5 |
 | [Stack](Topics/stack/) | 4 |
-| [String](Topics/string/) | 19 |
+| [String](Topics/string/) | 20 |
 | [String Matching](Topics/string-matching/) | 1 |
 | [Tournament Sort](Topics/tournament-sort/) | 1 |
 | [Tree](Topics/tree/) | 1 |
