@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/filter-elements-from-array">2634. Filter Elements from Array</a></h2><h3>Easy</h3><hr><p>Given an integer array <code>arr</code> and a filtering function <code>fn</code>, return a filtered array <code>filteredArr</code>.</p>
+<h2><a href="https://leetcode.com/problems/filter-elements-from-array/">2634. Filter Elements from Array</a></h2><h3>Easy</h3><hr><p>Given an integer array <code>arr</code> and a filtering function <code>fn</code>, return a filtered array <code>filteredArr</code>.</p>
 
 <p>The <code>fn</code> function takes one or two arguments:</p>
 
