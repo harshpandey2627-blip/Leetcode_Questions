@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/to-lower-case">709. To Lower Case</a></h2><h3>Easy</h3><hr><p>Given a string <code>s</code>, return <em>the string after replacing every uppercase letter with the same lowercase letter</em>.</p>
+<h2><a href="https://leetcode.com/problems/to-lower-case/">709. To Lower Case</a></h2><h3>Easy</h3><hr><p>Given a string <code>s</code>, return <em>the string after replacing every uppercase letter with the same lowercase letter</em>.</p>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
