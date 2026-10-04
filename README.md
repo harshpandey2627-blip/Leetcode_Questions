@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 48 | 32 | 13 | 3 |
+| 49 | 33 | 13 | 3 |
 
 ## Activity
 
@@ -28,7 +28,7 @@ Contains topicwise list of solved problems.
 | 2026-10-01 | 2 |
 | 2026-10-02 | 1 |
 | 2026-10-03 | 1 |
-| 2026-10-04 | 5 |
+| 2026-10-04 | 6 |
 
 ## Top Tags
 
@@ -37,9 +37,9 @@ Contains topicwise list of solved problems.
 | String | 17 | 35% |
 | Array | 14 | 29% |
 | Math | 13 | 27% |
-| Binary Search | 8 | 17% |
-| Two Pointers | 7 | 15% |
-| Dynamic Programming | 6 | 13% |
+| Binary Search | 8 | 16% |
+| Two Pointers | 7 | 14% |
+| Dynamic Programming | 6 | 12% |
 | Bracket Sequences | 4 | 8% |
 | Hash Table | 4 | 8% |
 | Recursion | 4 | 8% |
