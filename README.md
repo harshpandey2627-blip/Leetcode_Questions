@@ -5,18 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 42 | 27 | 13 | 2 |
+| 44 | 28 | 13 | 3 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 5 days | 23 days | 30 |
+| 7 days | 23 days | 32 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-16 | 1 |
-| 2026-09-17 | 1 |
 | 2026-09-18 | 1 |
 | 2026-09-19 | 1 |
 | 2026-09-20 | 1 |
@@ -29,21 +27,23 @@ Contains topicwise list of solved problems.
 | 2026-09-30 | 1 |
 | 2026-10-01 | 2 |
 | 2026-10-02 | 1 |
+| 2026-10-03 | 1 |
+| 2026-10-04 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| String | 16 | 38% |
-| Array | 14 | 33% |
-| Math | 13 | 31% |
-| Binary Search | 8 | 19% |
-| Two Pointers | 7 | 17% |
-| Dynamic Programming | 5 | 12% |
-| Hash Table | 4 | 10% |
-| Recursion | 4 | 10% |
-| Sorting | 4 | 10% |
-| Bit Manipulation | 3 | 7% |
+| String | 17 | 39% |
+| Array | 14 | 32% |
+| Math | 13 | 30% |
+| Binary Search | 8 | 18% |
+| Two Pointers | 7 | 16% |
+| Dynamic Programming | 6 | 14% |
+| Bracket Sequences | 4 | 9% |
+| Hash Table | 4 | 9% |
+| Recursion | 4 | 9% |
+| Sorting | 4 | 9% |
 
 ## Topics
 
@@ -57,13 +57,13 @@ Contains topicwise list of solved problems.
 | [Bit Manipulation](Topics/bit-manipulation/) | 4 |
 | [Boyer–Moore Majority Vote Algorithm](Topics/boyer-moore-majority-vote-algorithm/) | 1 |
 | [Boyer–Moore String-Search Algorithm](Topics/boyer-moore-string-search-algorithm/) | 1 |
-| [Bracket Sequences](Topics/bracket-sequences/) | 4 |
+| [Bracket Sequences](Topics/bracket-sequences/) | 5 |
 | [Brainteaser](Topics/brainteaser/) | 1 |
 | [Brute-Force Search](Topics/brute-force-search/) | 1 |
 | [Counting](Topics/counting/) | 2 |
 | [Data Structures](Topics/data-structures/) | 0 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 5 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 6 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 7 |
 | [Enumeration](Topics/enumeration/) | 1 |
 | [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 1 |
 | [Graph](Topics/graph/) | 0 |
@@ -86,8 +86,8 @@ Contains topicwise list of solved problems.
 | [Recursion](Topics/recursion/) | 5 |
 | [Simulation](Topics/simulation/) | 3 |
 | [Sorting](Topics/sorting/) | 5 |
-| [Stack](Topics/stack/) | 3 |
-| [String](Topics/string/) | 18 |
+| [Stack](Topics/stack/) | 4 |
+| [String](Topics/string/) | 19 |
 | [String Matching](Topics/string-matching/) | 1 |
 | [Tournament Sort](Topics/tournament-sort/) | 1 |
 | [Tree](Topics/tree/) | 1 |
