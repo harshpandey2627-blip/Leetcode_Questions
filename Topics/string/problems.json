@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-10-03T06:00:23.551Z",
+  "updatedAt": "2026-10-04T13:44:11.073Z",
   "problems": [
     {
       "frontendId": "20",
@@ -331,6 +331,26 @@
           "path": "0405-convert-a-number-to-hexadecimal/0405-convert-a-number-to-hexadecimal.java",
           "sha": "e8b2f43e5d44eb5cdfe5e713f4c7d5f56000ed77",
           "lastSyncedAt": "2026-09-29T06:04:06.006Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "709",
+      "title": "To Lower Case",
+      "slug": "to-lower-case",
+      "problemName": "0709-to-lower-case",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/to-lower-case/",
+      "folderPath": "0709-to-lower-case/",
+      "readmePath": "0709-to-lower-case/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0709-to-lower-case.java",
+          "path": "0709-to-lower-case/0709-to-lower-case.java",
+          "sha": "d02d7102a928178754cf4781c1157d595603f76a",
+          "lastSyncedAt": "2026-10-04T13:44:11.073Z"
         }
       ]
     },
