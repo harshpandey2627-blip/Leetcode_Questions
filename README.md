@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 53 | 35 | 15 | 3 |
+| 54 | 35 | 16 | 3 |
 
 ## Activity
 
@@ -28,22 +28,22 @@ Contains topicwise list of solved problems.
 | 2026-10-02 | 1 |
 | 2026-10-03 | 1 |
 | 2026-10-04 | 9 |
-| 2026-10-05 | 1 |
+| 2026-10-05 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| String | 19 | 36% |
+| String | 20 | 37% |
 | Array | 14 | 26% |
-| Math | 13 | 25% |
+| Math | 13 | 24% |
 | Binary Search | 8 | 15% |
 | Dynamic Programming | 7 | 13% |
 | Two Pointers | 7 | 13% |
-| Bracket Sequences | 5 | 9% |
-| Hash Table | 4 | 8% |
-| Recursion | 4 | 8% |
-| Sorting | 4 | 8% |
+| Bracket Sequences | 6 | 11% |
+| Stack | 5 | 9% |
+| Hash Table | 4 | 7% |
+| Recursion | 4 | 7% |
 
 ## Topics
 
@@ -57,7 +57,7 @@ Contains topicwise list of solved problems.
 | [Bit Manipulation](Topics/bit-manipulation/) | 4 |
 | [Boyer–Moore Majority Vote Algorithm](Topics/boyer-moore-majority-vote-algorithm/) | 1 |
 | [Boyer–Moore String-Search Algorithm](Topics/boyer-moore-string-search-algorithm/) | 1 |
-| [Bracket Sequences](Topics/bracket-sequences/) | 6 |
+| [Bracket Sequences](Topics/bracket-sequences/) | 7 |
 | [Brainteaser](Topics/brainteaser/) | 1 |
 | [Brute-Force Search](Topics/brute-force-search/) | 1 |
 | [Counting](Topics/counting/) | 2 |
@@ -86,8 +86,8 @@ Contains topicwise list of solved problems.
 | [Recursion](Topics/recursion/) | 5 |
 | [Simulation](Topics/simulation/) | 3 |
 | [Sorting](Topics/sorting/) | 5 |
-| [Stack](Topics/stack/) | 4 |
-| [String](Topics/string/) | 21 |
+| [Stack](Topics/stack/) | 5 |
+| [String](Topics/string/) | 22 |
 | [String Matching](Topics/string-matching/) | 1 |
 | [Tournament Sort](Topics/tournament-sort/) | 1 |
 | [Tree](Topics/tree/) | 1 |
