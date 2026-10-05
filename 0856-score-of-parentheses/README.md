@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/score-of-parentheses">856. Score of Parentheses</a></h2><h3>Medium</h3><hr><p>Given a balanced parentheses string <code>s</code>, return <em>the <strong>score</strong> of the string</em>.</p>
+<h2><a href="https://leetcode.com/problems/score-of-parentheses/">856. Score of Parentheses</a></h2><h3>Medium</h3><hr><p>Given a balanced parentheses string <code>s</code>, return <em>the <strong>score</strong> of the string</em>.</p>
 
 <p>The <strong>score</strong> of a balanced parentheses string is based on the following rule:</p>
 
