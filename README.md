@@ -114,6 +114,7 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [0006-zigzag-conversion](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0006-zigzag-conversion/) | Medium |
 | [0020-valid-parentheses](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0038-count-and-say](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0038-count-and-say/) | Medium |
 | [0043-multiply-strings](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0043-multiply-strings/) | Medium |
@@ -142,6 +143,7 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
@@ -166,6 +168,7 @@ Contains topicwise list of solved problems.
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0022-generate-parentheses/) | Medium |
 | [0039-combination-sum](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0039-combination-sum/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -237,6 +240,7 @@ Contains topicwise list of solved problems.
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0070-climbing-stairs](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0070-climbing-stairs/) | Easy |
 | [0139-word-break](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0139-word-break/) | Medium |
