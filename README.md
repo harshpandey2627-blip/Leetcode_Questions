@@ -112,6 +112,7 @@ Contains topicwise list of solved problems.
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0006-zigzag-conversion](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0006-zigzag-conversion/) | Medium |
 | [0020-valid-parentheses](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0038-count-and-say](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0038-count-and-say/) | Medium |
