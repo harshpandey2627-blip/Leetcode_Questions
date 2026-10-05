@@ -4,7 +4,7 @@
     "slug": "bracket-sequences",
     "name": "Bracket Sequences"
   },
-  "updatedAt": "2026-10-05T17:33:40.906Z",
+  "updatedAt": "2026-10-05T18:03:56.250Z",
   "problems": [
     {
       "frontendId": "20",
@@ -63,6 +63,26 @@
           "path": "0032-longest-valid-parentheses/0032-longest-valid-parentheses.java",
           "sha": "d0a369fbb24d8228954b281bbbdb4b68bd505c5d",
           "lastSyncedAt": "2026-10-03T05:59:54.791Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "856",
+      "title": "Score of Parentheses",
+      "slug": "score-of-parentheses",
+      "problemName": "0856-score-of-parentheses",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/score-of-parentheses/",
+      "folderPath": "0856-score-of-parentheses/",
+      "readmePath": "0856-score-of-parentheses/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0856-score-of-parentheses.java",
+          "path": "0856-score-of-parentheses/0856-score-of-parentheses.java",
+          "sha": "1949bc856334a357c185ec9157a5a2e34b93ab28",
+          "lastSyncedAt": "2026-10-05T18:03:56.250Z"
         }
       ]
     },
