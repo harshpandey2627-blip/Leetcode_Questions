@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/add-two-promises">2723. Add Two Promises</a></h2><h3>Easy</h3><hr>Given two promises <code>promise1</code> and <code>promise2</code>, return a new promise. <code>promise1</code> and <code>promise2</code>&nbsp;will both resolve with a number. The returned promise should resolve with the sum of the two numbers.
+<h2><a href="https://leetcode.com/problems/add-two-promises/">2723. Add Two Promises</a></h2><h3>Easy</h3><hr>Given two promises <code>promise1</code> and <code>promise2</code>, return a new promise. <code>promise1</code> and <code>promise2</code>&nbsp;will both resolve with a number. The returned promise should resolve with the sum of the two numbers.
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 
