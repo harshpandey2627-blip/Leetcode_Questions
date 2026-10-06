@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-10-05T18:04:37.166Z",
+  "updatedAt": "2026-10-06T04:55:22.652Z",
   "problems": [
     {
       "frontendId": "20",
@@ -131,6 +131,26 @@
           "path": "0043-multiply-strings/0043-multiply-strings.java",
           "sha": "c4e581078d72e93572a1c958a94bdc85bd7d87ed",
           "lastSyncedAt": "2026-09-29T06:05:35.052Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "49",
+      "title": "Group Anagrams",
+      "slug": "group-anagrams",
+      "problemName": "0049-group-anagrams",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/group-anagrams/",
+      "folderPath": "0049-group-anagrams/",
+      "readmePath": "0049-group-anagrams/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0049-group-anagrams.java",
+          "path": "0049-group-anagrams/0049-group-anagrams.java",
+          "sha": "d4484f17ff3af9411e45299f052a84ab590a0759",
+          "lastSyncedAt": "2026-10-06T04:55:22.652Z"
         }
       ]
     },
