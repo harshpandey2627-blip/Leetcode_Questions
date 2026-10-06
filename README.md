@@ -5,16 +5,17 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 54 | 35 | 16 | 3 |
+| 44 | 27 | 14 | 3 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 8 days | 23 days | 33 |
+| 1 days | 23 days | 32 |
 
 | Date | Problems |
 | --- | ---: |
+| 2026-09-18 | 1 |
 | 2026-09-19 | 1 |
 | 2026-09-20 | 1 |
 | 2026-09-21 | 1 |
@@ -27,29 +28,28 @@ Contains topicwise list of solved problems.
 | 2026-10-01 | 2 |
 | 2026-10-02 | 1 |
 | 2026-10-03 | 1 |
-| 2026-10-04 | 9 |
-| 2026-10-05 | 2 |
+| 2026-10-06 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| String | 20 | 37% |
-| Array | 14 | 26% |
-| Math | 13 | 24% |
-| Binary Search | 8 | 15% |
-| Dynamic Programming | 7 | 13% |
-| Two Pointers | 7 | 13% |
-| Bracket Sequences | 6 | 11% |
-| Stack | 5 | 9% |
-| Hash Table | 4 | 7% |
-| Recursion | 4 | 7% |
+| String | 18 | 41% |
+| Array | 15 | 34% |
+| Math | 13 | 30% |
+| Binary Search | 8 | 18% |
+| Two Pointers | 7 | 16% |
+| Dynamic Programming | 6 | 14% |
+| Hash Table | 5 | 11% |
+| Sorting | 5 | 11% |
+| Bracket Sequences | 4 | 9% |
+| Recursion | 4 | 9% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 18 |
+| [Array](Topics/array/) | 19 |
 | [Backtracking](Topics/backtracking/) | 2 |
 | [Binary Search](Topics/binary-search/) | 9 |
 | [Binary Search Tree](Topics/binary-search-tree/) | 1 |
@@ -68,7 +68,7 @@ Contains topicwise list of solved problems.
 | [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 1 |
 | [Graph](Topics/graph/) | 0 |
 | [Greedy](Topics/greedy/) | 1 |
-| [Hash Table](Topics/hash-table/) | 6 |
+| [Hash Table](Topics/hash-table/) | 7 |
 | [Heap](Topics/heap/) | 0 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 3 |
 | [Interactive](Topics/interactive/) | 2 |
@@ -85,9 +85,9 @@ Contains topicwise list of solved problems.
 | [Quickselect](Topics/quickselect/) | 1 |
 | [Recursion](Topics/recursion/) | 5 |
 | [Simulation](Topics/simulation/) | 3 |
-| [Sorting](Topics/sorting/) | 5 |
+| [Sorting](Topics/sorting/) | 6 |
 | [Stack](Topics/stack/) | 5 |
-| [String](Topics/string/) | 22 |
+| [String](Topics/string/) | 23 |
 | [String Matching](Topics/string-matching/) | 1 |
 | [Tournament Sort](Topics/tournament-sort/) | 1 |
 | [Tree](Topics/tree/) | 1 |
