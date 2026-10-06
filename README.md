@@ -5,18 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 44 | 27 | 14 | 3 |
+| 56 | 37 | 16 | 3 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 23 days | 32 |
+| 9 days | 23 days | 34 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-18 | 1 |
-| 2026-09-19 | 1 |
 | 2026-09-20 | 1 |
 | 2026-09-21 | 1 |
 | 2026-09-22 | 3 |
@@ -28,22 +26,24 @@ Contains topicwise list of solved problems.
 | 2026-10-01 | 2 |
 | 2026-10-02 | 1 |
 | 2026-10-03 | 1 |
-| 2026-10-06 | 1 |
+| 2026-10-04 | 9 |
+| 2026-10-05 | 2 |
+| 2026-10-06 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| String | 18 | 41% |
-| Array | 15 | 34% |
-| Math | 13 | 30% |
-| Binary Search | 8 | 18% |
-| Two Pointers | 7 | 16% |
-| Dynamic Programming | 6 | 14% |
-| Hash Table | 5 | 11% |
-| Sorting | 5 | 11% |
-| Bracket Sequences | 4 | 9% |
-| Recursion | 4 | 9% |
+| String | 20 | 36% |
+| Array | 14 | 25% |
+| Math | 13 | 23% |
+| Binary Search | 8 | 14% |
+| Dynamic Programming | 7 | 13% |
+| Two Pointers | 7 | 13% |
+| Bracket Sequences | 6 | 11% |
+| Stack | 5 | 9% |
+| Hash Table | 4 | 7% |
+| Recursion | 4 | 7% |
 
 ## Topics
 
