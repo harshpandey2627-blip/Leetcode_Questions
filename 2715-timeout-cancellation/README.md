@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/timeout-cancellation">2715. Timeout Cancellation</a></h2><h3>Easy</h3><hr><p>Given a function <code>fn</code>, an array of&nbsp;arguments&nbsp;<code>args</code>, and a timeout&nbsp;<code>t</code>&nbsp;in milliseconds, return a cancel function <code>cancelFn</code>.</p>
+<h2><a href="https://leetcode.com/problems/timeout-cancellation/">2715. Timeout Cancellation</a></h2><h3>Easy</h3><hr><p>Given a function <code>fn</code>, an array of&nbsp;arguments&nbsp;<code>args</code>, and a timeout&nbsp;<code>t</code>&nbsp;in milliseconds, return a cancel function <code>cancelFn</code>.</p>
 
 <p>After a delay of <code>cancelTimeMs</code>, the returned cancel function <code>cancelFn</code> will be invoked.</p>
 
