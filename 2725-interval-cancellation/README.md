@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/interval-cancellation">2725. Interval Cancellation</a></h2><h3>Easy</h3><hr><p>Given a function <code>fn</code>, an array of arguments&nbsp;<code>args</code>, and&nbsp;an interval time <code>t</code>, return a cancel function <code>cancelFn</code>.</p>
+<h2><a href="https://leetcode.com/problems/interval-cancellation/">2725. Interval Cancellation</a></h2><h3>Easy</h3><hr><p>Given a function <code>fn</code>, an array of arguments&nbsp;<code>args</code>, and&nbsp;an interval time <code>t</code>, return a cancel function <code>cancelFn</code>.</p>
 
 <p>After a delay of&nbsp;<code>cancelTimeMs</code>, the returned cancel function&nbsp;<code>cancelFn</code>&nbsp;will be invoked.</p>
 
