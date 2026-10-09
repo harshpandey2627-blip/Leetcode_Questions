@@ -140,6 +140,7 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0321-create-maximum-number](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0321-create-maximum-number/) | Hard |
 | [0856-score-of-parentheses](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0856-score-of-parentheses/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 ## Bracket Sequences
@@ -168,6 +169,7 @@ Contains topicwise list of solved problems.
 | [0049-group-anagrams](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0049-group-anagrams/) | Medium |
 | [0139-word-break](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0139-word-break/) | Medium |
 | [0169-majority-element](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0169-majority-element/) | Easy |
+| [0321-create-maximum-number](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0321-create-maximum-number/) | Hard |
 | [0989-add-to-array-form-of-integer](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 ## Backtracking
@@ -179,6 +181,7 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0125-valid-palindrome/) | Easy |
+| [0321-create-maximum-number](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0321-create-maximum-number/) | Hard |
 | [0344-reverse-string](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [2396-strictly-palindromic-number](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/2396-strictly-palindromic-number/) | Medium |
@@ -271,4 +274,12 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0139-word-break](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0139-word-break/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0321-create-maximum-number](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0321-create-maximum-number/) | Hard |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0321-create-maximum-number](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0321-create-maximum-number/) | Hard |
 <!---LeetCode Topics End-->
