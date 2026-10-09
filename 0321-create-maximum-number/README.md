@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/create-maximum-number">321. Create Maximum Number</a></h2><h3>Hard</h3><hr><p>You are given two integer arrays <code>nums1</code> and <code>nums2</code> of lengths <code>m</code> and <code>n</code> respectively. <code>nums1</code> and <code>nums2</code> represent the digits of two numbers. You are also given an integer <code>k</code>.</p>
+<h2><a href="https://leetcode.com/problems/create-maximum-number/">321. Create Maximum Number</a></h2><h3>Hard</h3><hr><p>You are given two integer arrays <code>nums1</code> and <code>nums2</code> of lengths <code>m</code> and <code>n</code> respectively. <code>nums1</code> and <code>nums2</code> represent the digits of two numbers. You are also given an integer <code>k</code>.</p>
 
 <p>Create the maximum number of length <code>k &lt;= m + n</code> from digits of the two numbers. The relative order of the digits from the same array must be preserved.</p>
 
