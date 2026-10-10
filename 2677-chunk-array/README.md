@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/chunk-array">2677. Chunk Array</a></h2><h3>Easy</h3><hr><p>Given an array <code>arr</code> and a chunk size <code>size</code>, return a <strong>chunked</strong> array.</p>
+<h2><a href="https://leetcode.com/problems/chunk-array/">2677. Chunk Array</a></h2><h3>Easy</h3><hr><p>Given an array <code>arr</code> and a chunk size <code>size</code>, return a <strong>chunked</strong> array.</p>
 
 <p>A <strong>chunked</strong> array contains the original elements in <code>arr</code>, but consists of subarrays each of length <code>size</code>. The length of the last subarray may be less than <code>size</code> if <code>arr.length</code> is not evenly divisible by <code>size</code>.</p>
 
