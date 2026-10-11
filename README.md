@@ -105,6 +105,7 @@ Contains topicwise list of solved problems.
 | [0007-reverse-integer](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0007-reverse-integer/) | Medium |
 | [0043-multiply-strings](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0043-multiply-strings/) | Medium |
 | [0070-climbing-stairs](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0070-climbing-stairs/) | Easy |
+| [0172-factorial-trailing-zeroes](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0509-fibonacci-number](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0509-fibonacci-number/) | Easy |
 | [0989-add-to-array-form-of-integer](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0989-add-to-array-form-of-integer/) | Easy |
