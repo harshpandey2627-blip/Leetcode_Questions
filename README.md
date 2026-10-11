@@ -172,6 +172,7 @@ Contains topicwise list of solved problems.
 | [0321-create-maximum-number](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0321-create-maximum-number/) | Hard |
 | [0989-add-to-array-form-of-integer](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
+| [2778-sum-of-squares-of-special-elements](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -282,4 +283,8 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0321-create-maximum-number](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0321-create-maximum-number/) | Hard |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 <!---LeetCode Topics End-->
