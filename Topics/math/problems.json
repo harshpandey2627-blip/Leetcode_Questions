@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "math",
-    "name": "Math"
+    "name": "Math",
+    "tagId": "8"
   },
-  "updatedAt": "2026-10-01T14:22:26.749Z",
+  "updatedAt": "2026-10-11T10:46:52.757Z",
   "problems": [
     {
       "frontendId": "2",
@@ -183,6 +184,26 @@
           "path": "0168-excel-sheet-column-title/0168-excel-sheet-column-title.java",
           "sha": "94fa67bd3ecfe1677fcf114f837dfedf0613cf30",
           "lastSyncedAt": "2026-09-29T06:07:30.045Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "172",
+      "title": "Factorial Trailing Zeroes",
+      "slug": "factorial-trailing-zeroes",
+      "problemName": "0172-factorial-trailing-zeroes",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/factorial-trailing-zeroes/",
+      "folderPath": "0172-factorial-trailing-zeroes/",
+      "readmePath": "0172-factorial-trailing-zeroes/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0172-factorial-trailing-zeroes.java",
+          "path": "0172-factorial-trailing-zeroes/0172-factorial-trailing-zeroes.java",
+          "sha": "de5f51127d095239438d68c26f029703d30421dd",
+          "lastSyncedAt": "2026-10-11T10:46:52.757Z"
         }
       ]
     },
