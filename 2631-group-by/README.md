@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/group-by">2631. Group By</a></h2><h3>Medium</h3><hr><p>Write code that enhances all arrays such that you can call the&nbsp;<code>array.groupBy(fn)</code>&nbsp;method on any array and it will return a <strong>grouped</strong>&nbsp;version of the array.</p>
+<h2><a href="https://leetcode.com/problems/group-by/">2631. Group By</a></h2><h3>Medium</h3><hr><p>Write code that enhances all arrays such that you can call the&nbsp;<code>array.groupBy(fn)</code>&nbsp;method on any array and it will return a <strong>grouped</strong>&nbsp;version of the array.</p>
 
 <p>A <strong>grouped</strong> array is an object where each&nbsp;key&nbsp;is&nbsp;the output of <code>fn(arr[i])</code> and each value is an array containing all items in the original array which generate that key.</p>
 
