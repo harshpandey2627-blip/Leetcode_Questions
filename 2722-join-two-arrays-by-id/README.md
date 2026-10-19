@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/join-two-arrays-by-id">2722. Join Two Arrays by ID</a></h2><h3>Medium</h3><hr><p>Given two arrays <code>arr1</code> and <code>arr2</code>, return a new&nbsp;array <code>joinedArray</code>. All the objects in each&nbsp;of the two inputs arrays will contain an&nbsp;<code>id</code>&nbsp;field that has an integer value.&nbsp;</p>
+<h2><a href="https://leetcode.com/problems/join-two-arrays-by-id/">2722. Join Two Arrays by ID</a></h2><h3>Medium</h3><hr><p>Given two arrays <code>arr1</code> and <code>arr2</code>, return a new&nbsp;array <code>joinedArray</code>. All the objects in each&nbsp;of the two inputs arrays will contain an&nbsp;<code>id</code>&nbsp;field that has an integer value.&nbsp;</p>
 
 <p><code>joinedArray</code>&nbsp;is an array formed by merging&nbsp;<code>arr1</code> and <code>arr2</code> based on&nbsp;their <code>id</code>&nbsp;key. The length of&nbsp;<code>joinedArray</code> should be the length of unique values of <code>id</code>. The returned array should be sorted in&nbsp;<strong>ascending</strong>&nbsp;order based on the <code>id</code>&nbsp;key.</p>
 
