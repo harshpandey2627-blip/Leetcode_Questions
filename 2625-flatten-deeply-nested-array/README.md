@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/flatten-deeply-nested-array">2625. Flatten Deeply Nested Array</a></h2><h3>Medium</h3><hr><p>Given a&nbsp;<strong>multi-dimensional</strong> array&nbsp;<code>arr</code>&nbsp;and a depth <code>n</code>, return&nbsp;a&nbsp;<strong>flattened</strong>&nbsp;version of that array.</p>
+<h2><a href="https://leetcode.com/problems/flatten-deeply-nested-array/">2625. Flatten Deeply Nested Array</a></h2><h3>Medium</h3><hr><p>Given a&nbsp;<strong>multi-dimensional</strong> array&nbsp;<code>arr</code>&nbsp;and a depth <code>n</code>, return&nbsp;a&nbsp;<strong>flattened</strong>&nbsp;version of that array.</p>
 
 <p>A <strong>multi-dimensional</strong>&nbsp;array is a recursive data structure that contains integers or other&nbsp;<strong>multi-dimensional</strong>&nbsp;arrays.</p>
 
