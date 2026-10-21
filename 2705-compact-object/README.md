@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/compact-object">2705. Compact Object</a></h2><h3>Medium</h3><hr><p>Given an object or array&nbsp;<code>obj</code>, return a <strong>compact object</strong>.</p>
+<h2><a href="https://leetcode.com/problems/compact-object/">2705. Compact Object</a></h2><h3>Medium</h3><hr><p>Given an object or array&nbsp;<code>obj</code>, return a <strong>compact object</strong>.</p>
 
 <p>A <strong>compact object</strong>&nbsp;is the same as the original object, except with keys containing <strong>falsy</strong> values removed. This operation applies to the object and any nested objects. Arrays are considered objects where&nbsp;the indices are&nbsp;keys. A value is&nbsp;considered <strong>falsy</strong>&nbsp;when <code>Boolean(value)</code> returns <code>false</code>.</p>
 
