@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/event-emitter">2694. Event Emitter</a></h2><h3>Medium</h3><hr><p>Design an <code>EventEmitter</code> class. This interface&nbsp;is similar (but with some differences) to the one found in Node.js or the Event Target interface of the DOM. The <code>EventEmitter</code> should allow for subscribing to events and emitting them.</p>
+<h2><a href="https://leetcode.com/problems/event-emitter/">2694. Event Emitter</a></h2><h3>Medium</h3><hr><p>Design an <code>EventEmitter</code> class. This interface&nbsp;is similar (but with some differences) to the one found in Node.js or the Event Target interface of the DOM. The <code>EventEmitter</code> should allow for subscribing to events and emitting them.</p>
 
 <p>Your <code>EventEmitter</code> class should have the following two methods:</p>
 
