@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-11T10:19:14.839Z",
+  "updatedAt": "2026-10-23T06:00:06.892Z",
   "problems": [
     {
       "frontendId": "4",
@@ -392,6 +392,26 @@
           "path": "3483-unique-3-digit-even-numbers/3483-unique-3-digit-even-numbers.java",
           "sha": "3ddbc055dcefd666a29548a5a204246d68f36fa2",
           "lastSyncedAt": "2026-09-29T06:06:15.468Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3644",
+      "title": "Maximum K to Sort a Permutation",
+      "slug": "maximum-k-to-sort-a-permutation",
+      "problemName": "3644-maximum-k-to-sort-a-permutation",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-k-to-sort-a-permutation/",
+      "folderPath": "3644-maximum-k-to-sort-a-permutation/",
+      "readmePath": "3644-maximum-k-to-sort-a-permutation/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3644-maximum-k-to-sort-a-permutation.java",
+          "path": "3644-maximum-k-to-sort-a-permutation/3644-maximum-k-to-sort-a-permutation.java",
+          "sha": "36975b79738f0ea730c913bf8618aeb469dfbdcf",
+          "lastSyncedAt": "2026-10-23T06:00:06.892Z"
         }
       ]
     },
