@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i">2913. Subarrays Distinct Element Sum of Squares I</a></h2><h3>Easy</h3><hr><p>You are given a <strong>0-indexed </strong>integer array <code>nums</code>.</p>
+<h2><a href="https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i/">2913. Subarrays Distinct Element Sum of Squares I</a></h2><h3>Easy</h3><hr><p>You are given a <strong>0-indexed </strong>integer array <code>nums</code>.</p>
 
 <p>The <strong>distinct count</strong> of a subarray of <code>nums</code> is defined as:</p>
 
