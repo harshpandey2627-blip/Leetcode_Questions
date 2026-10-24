@@ -5,7 +5,7 @@
     "name": "Binary Indexed Tree",
     "tagId": "28"
   },
-  "updatedAt": "2026-10-24T13:23:49.074Z",
+  "updatedAt": "2026-10-24T13:24:36.025Z",
   "problems": [
     {
       "frontendId": "2913",
@@ -23,7 +23,7 @@
           "filename": "2913-subarrays-distinct-element-sum-of-squares-i.java",
           "path": "2913-subarrays-distinct-element-sum-of-squares-i/2913-subarrays-distinct-element-sum-of-squares-i.java",
           "sha": "63bdc381f8e7d8e63e0c9f39c9919691d49f2027",
-          "lastSyncedAt": "2026-10-24T13:23:49.074Z"
+          "lastSyncedAt": "2026-10-24T13:24:36.025Z"
         }
       ]
     }
