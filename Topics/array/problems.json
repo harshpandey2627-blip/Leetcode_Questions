@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-23T06:00:06.892Z",
+  "updatedAt": "2026-10-24T13:23:49.074Z",
   "problems": [
     {
       "frontendId": "4",
@@ -372,6 +372,26 @@
           "path": "2778-sum-of-squares-of-special-elements/2778-sum-of-squares-of-special-elements.java",
           "sha": "c8575e3492edc572e9b6fdb31d84d92163da3bcd",
           "lastSyncedAt": "2026-10-11T10:19:14.839Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2913",
+      "title": "Subarrays Distinct Element Sum of Squares I",
+      "slug": "subarrays-distinct-element-sum-of-squares-i",
+      "problemName": "2913-subarrays-distinct-element-sum-of-squares-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i/",
+      "folderPath": "2913-subarrays-distinct-element-sum-of-squares-i/",
+      "readmePath": "2913-subarrays-distinct-element-sum-of-squares-i/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2913-subarrays-distinct-element-sum-of-squares-i.java",
+          "path": "2913-subarrays-distinct-element-sum-of-squares-i/2913-subarrays-distinct-element-sum-of-squares-i.java",
+          "sha": "63bdc381f8e7d8e63e0c9f39c9919691d49f2027",
+          "lastSyncedAt": "2026-10-24T13:23:49.074Z"
         }
       ]
     },
