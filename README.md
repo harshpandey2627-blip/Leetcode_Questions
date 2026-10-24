@@ -174,6 +174,7 @@ Contains topicwise list of solved problems.
 | [0989-add-to-array-form-of-integer](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2778-sum-of-squares-of-special-elements](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -196,6 +197,7 @@ Contains topicwise list of solved problems.
 | [0169-majority-element](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0169-majority-element/) | Easy |
 | [0205-isomorphic-strings](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0205-isomorphic-strings/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -290,4 +292,12 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 <!---LeetCode Topics End-->
