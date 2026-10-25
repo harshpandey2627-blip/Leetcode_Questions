@@ -112,6 +112,7 @@ Contains topicwise list of solved problems.
 | [0509-fibonacci-number](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0509-fibonacci-number/) | Easy |
 | [0989-add-to-array-form-of-integer](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [2396-strictly-palindromic-number](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/2396-strictly-palindromic-number/) | Medium |
+| [2409-count-days-spent-together](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/2409-count-days-spent-together/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -132,6 +133,7 @@ Contains topicwise list of solved problems.
 | [0709-to-lower-case](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0709-to-lower-case/) | Easy |
 | [0856-score-of-parentheses](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0856-score-of-parentheses/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
+| [2409-count-days-spent-together](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/2409-count-days-spent-together/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
