@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/count-days-spent-together">2409. Count Days Spent Together</a></h2><h3>Easy</h3><hr><p>Alice and Bob are traveling to Rome for separate business meetings.</p>
+<h2><a href="https://leetcode.com/problems/count-days-spent-together/">2409. Count Days Spent Together</a></h2><h3>Easy</h3><hr><p>Alice and Bob are traveling to Rome for separate business meetings.</p>
 
 <p>You are given 4 strings <code>arriveAlice</code>, <code>leaveAlice</code>, <code>arriveBob</code>, and <code>leaveBob</code>. Alice will be in the city from the dates <code>arriveAlice</code> to <code>leaveAlice</code> (<strong>inclusive</strong>), while Bob will be in the city from the dates <code>arriveBob</code> to <code>leaveBob</code> (<strong>inclusive</strong>). Each will be a 5-character string in the format <code>&quot;MM-DD&quot;</code>, corresponding to the month and day of the date.</p>
 
