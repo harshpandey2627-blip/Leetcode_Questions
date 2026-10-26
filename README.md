@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 70 | 43 | 24 | 3 |
+| 71 | 44 | 24 | 3 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 3 days | 23 days | 46 |
+| 1 days | 23 days | 47 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-10-05 | 2 |
 | 2026-10-06 | 2 |
 | 2026-10-07 | 1 |
 | 2026-10-08 | 1 |
@@ -29,19 +28,20 @@ Contains topicwise list of solved problems.
 | 2026-10-21 | 1 |
 | 2026-10-22 | 1 |
 | 2026-10-23 | 1 |
+| 2026-10-26 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| String | 20 | 29% |
+| String | 21 | 30% |
 | Array | 16 | 23% |
 | Math | 14 | 20% |
 | Binary Search | 8 | 11% |
+| Bracket Sequences | 7 | 10% |
 | Dynamic Programming | 7 | 10% |
 | Two Pointers | 7 | 10% |
-| Bracket Sequences | 6 | 9% |
-| Stack | 5 | 7% |
+| Stack | 6 | 8% |
 | Bit Manipulation | 4 | 6% |
 | Hash Table | 4 | 6% |
 
@@ -58,7 +58,7 @@ Contains topicwise list of solved problems.
 | [Bit Manipulation](Topics/bit-manipulation/) | 5 |
 | [Boyer–Moore Majority Vote Algorithm](Topics/boyer-moore-majority-vote-algorithm/) | 1 |
 | [Boyer–Moore String-Search Algorithm](Topics/boyer-moore-string-search-algorithm/) | 1 |
-| [Bracket Sequences](Topics/bracket-sequences/) | 7 |
+| [Bracket Sequences](Topics/bracket-sequences/) | 8 |
 | [Brainteaser](Topics/brainteaser/) | 1 |
 | [Brute-Force Search](Topics/brute-force-search/) | 1 |
 | [Counting](Topics/counting/) | 2 |
@@ -88,8 +88,8 @@ Contains topicwise list of solved problems.
 | [Segment Tree](Topics/segment-tree/) | 1 |
 | [Simulation](Topics/simulation/) | 3 |
 | [Sorting](Topics/sorting/) | 6 |
-| [Stack](Topics/stack/) | 5 |
-| [String](Topics/string/) | 23 |
+| [Stack](Topics/stack/) | 6 |
+| [String](Topics/string/) | 24 |
 | [String Matching](Topics/string-matching/) | 1 |
 | [Tournament Sort](Topics/tournament-sort/) | 1 |
 | [Tree](Topics/tree/) | 1 |
