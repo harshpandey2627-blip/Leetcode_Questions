@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "stack",
-    "name": "Stack"
+    "name": "Stack",
+    "tagId": "15"
   },
-  "updatedAt": "2026-10-05T18:04:37.166Z",
+  "updatedAt": "2026-10-26T15:56:10.198Z",
   "problems": [
     {
       "frontendId": "20",
@@ -63,6 +64,26 @@
           "path": "0856-score-of-parentheses/0856-score-of-parentheses.java",
           "sha": "1949bc856334a357c185ec9157a5a2e34b93ab28",
           "lastSyncedAt": "2026-10-05T18:04:37.166Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1021",
+      "title": "Remove Outermost Parentheses",
+      "slug": "remove-outermost-parentheses",
+      "problemName": "1021-remove-outermost-parentheses",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-outermost-parentheses/",
+      "folderPath": "1021-remove-outermost-parentheses/",
+      "readmePath": "1021-remove-outermost-parentheses/README.md",
+      "solutions": [
+        {
+          "language": "JavaScript",
+          "extension": ".js",
+          "filename": "1021-remove-outermost-parentheses.js",
+          "path": "1021-remove-outermost-parentheses/1021-remove-outermost-parentheses.js",
+          "sha": "428a30f1923f24597de984ed52770f989978ca87",
+          "lastSyncedAt": "2026-10-26T15:56:10.198Z"
         }
       ]
     },
