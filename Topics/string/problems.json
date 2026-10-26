@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-26T15:56:10.198Z",
+  "updatedAt": "2026-10-26T15:56:51.048Z",
   "problems": [
     {
       "frontendId": "20",
@@ -425,6 +425,14 @@
       "folderPath": "1021-remove-outermost-parentheses/",
       "readmePath": "1021-remove-outermost-parentheses/README.md",
       "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1021-remove-outermost-parentheses.java",
+          "path": "1021-remove-outermost-parentheses/1021-remove-outermost-parentheses.java",
+          "sha": "ae3051f938e250e81178f4c4f660426feb585fcd",
+          "lastSyncedAt": "2026-10-26T15:56:51.048Z"
+        },
         {
           "language": "JavaScript",
           "extension": ".js",
