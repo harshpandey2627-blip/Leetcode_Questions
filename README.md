@@ -132,6 +132,7 @@ Contains topicwise list of solved problems.
 | [0405-convert-a-number-to-hexadecimal](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0709-to-lower-case](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0709-to-lower-case/) | Easy |
 | [0856-score-of-parentheses](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0856-score-of-parentheses/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [2409-count-days-spent-together](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/2409-count-days-spent-together/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
@@ -147,6 +148,7 @@ Contains topicwise list of solved problems.
 | [0032-longest-valid-parentheses](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0321-create-maximum-number](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0321-create-maximum-number/) | Hard |
 | [0856-score-of-parentheses](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0856-score-of-parentheses/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
@@ -155,6 +157,7 @@ Contains topicwise list of solved problems.
 | [0022-generate-parentheses](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0856-score-of-parentheses](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0856-score-of-parentheses/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 ## Binary Search
