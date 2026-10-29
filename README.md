@@ -174,6 +174,7 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0039-combination-sum](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0039-combination-sum/) | Medium |
+| [0040-combination-sum-ii](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0040-combination-sum-ii/) | Medium |
 | [0049-group-anagrams](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0049-group-anagrams/) | Medium |
 | [0139-word-break](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0139-word-break/) | Medium |
 | [0169-majority-element](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0169-majority-element/) | Easy |
@@ -188,6 +189,7 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0022-generate-parentheses/) | Medium |
 | [0039-combination-sum](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0039-combination-sum/) | Medium |
+| [0040-combination-sum-ii](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0040-combination-sum-ii/) | Medium |
 | [0077-combinations](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0077-combinations/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
