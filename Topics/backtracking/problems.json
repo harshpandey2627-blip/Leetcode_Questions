@@ -5,7 +5,7 @@
     "name": "Backtracking",
     "tagId": "14"
   },
-  "updatedAt": "2026-10-29T16:19:48.794Z",
+  "updatedAt": "2026-10-29T16:19:54.547Z",
   "problems": [
     {
       "frontendId": "22",
@@ -63,7 +63,7 @@
           "filename": "0040-combination-sum-ii.java",
           "path": "0040-combination-sum-ii/0040-combination-sum-ii.java",
           "sha": "e07df6ed1b478134dcf13630f9cf90b05d617d24",
-          "lastSyncedAt": "2026-10-29T16:19:48.794Z"
+          "lastSyncedAt": "2026-10-29T16:19:54.547Z"
         }
       ]
     }
