@@ -5,18 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 71 | 44 | 24 | 3 |
+| 73 | 45 | 25 | 3 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 23 days | 47 |
+| 2 days | 23 days | 49 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-10-06 | 2 |
-| 2026-10-07 | 1 |
 | 2026-10-08 | 1 |
 | 2026-10-09 | 1 |
 | 2026-10-10 | 1 |
@@ -29,40 +27,44 @@ Contains topicwise list of solved problems.
 | 2026-10-22 | 1 |
 | 2026-10-23 | 1 |
 | 2026-10-26 | 1 |
+| 2026-10-29 | 1 |
+| 2026-10-30 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| String | 21 | 30% |
-| Array | 16 | 23% |
-| Math | 14 | 20% |
+| String | 21 | 29% |
+| Array | 17 | 23% |
+| Math | 14 | 19% |
 | Binary Search | 8 | 11% |
 | Bracket Sequences | 7 | 10% |
 | Dynamic Programming | 7 | 10% |
 | Two Pointers | 7 | 10% |
 | Stack | 6 | 8% |
-| Bit Manipulation | 4 | 6% |
-| Hash Table | 4 | 6% |
+| Bit Manipulation | 4 | 5% |
+| Hash Table | 4 | 5% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 22 |
-| [Backtracking](Topics/backtracking/) | 2 |
+| [Array](Topics/array/) | 23 |
+| [Backtracking](Topics/backtracking/) | 3 |
 | [Binary Indexed Tree](Topics/binary-indexed-tree/) | 1 |
 | [Binary Search](Topics/binary-search/) | 9 |
 | [Binary Search Tree](Topics/binary-search-tree/) | 1 |
-| [Binary Tree](Topics/binary-tree/) | 1 |
+| [Binary Tree](Topics/binary-tree/) | 2 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 5 |
 | [Boyer–Moore Majority Vote Algorithm](Topics/boyer-moore-majority-vote-algorithm/) | 1 |
 | [Boyer–Moore String-Search Algorithm](Topics/boyer-moore-string-search-algorithm/) | 1 |
 | [Bracket Sequences](Topics/bracket-sequences/) | 8 |
 | [Brainteaser](Topics/brainteaser/) | 1 |
+| [Breadth-First Search](Topics/breadth-first-search/) | 1 |
 | [Brute-Force Search](Topics/brute-force-search/) | 1 |
 | [Counting](Topics/counting/) | 2 |
 | [Data Structures](Topics/data-structures/) | 0 |
+| [Depth-First Search](Topics/depth-first-search/) | 1 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 5 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 8 |
 | [Enumeration](Topics/enumeration/) | 2 |
@@ -92,7 +94,7 @@ Contains topicwise list of solved problems.
 | [String](Topics/string/) | 24 |
 | [String Matching](Topics/string-matching/) | 1 |
 | [Tournament Sort](Topics/tournament-sort/) | 1 |
-| [Tree](Topics/tree/) | 1 |
+| [Tree](Topics/tree/) | 2 |
 | [Trie](Topics/trie/) | 1 |
 | [Two Pointers](Topics/two-pointers/) | 7 |
 | [Z Algorithm](Topics/z-algorithm/) | 1 |
