@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "breadth-first-search",
+    "name": "Breadth-First Search",
+    "tagId": "22"
+  },
+  "updatedAt": "2026-10-30T16:39:52.028Z",
+  "problems": [
+    {
+      "frontendId": "111",
+      "title": "Minimum Depth of Binary Tree",
+      "slug": "minimum-depth-of-binary-tree",
+      "problemName": "0111-minimum-depth-of-binary-tree",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-depth-of-binary-tree/",
+      "folderPath": "0111-minimum-depth-of-binary-tree/",
+      "readmePath": "0111-minimum-depth-of-binary-tree/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0111-minimum-depth-of-binary-tree.java",
+          "path": "0111-minimum-depth-of-binary-tree/0111-minimum-depth-of-binary-tree.java",
+          "sha": "32e0610acacd3f456022db09fa82cbb2ba982d0e",
+          "lastSyncedAt": "2026-10-30T16:39:52.028Z"
+        }
+      ]
+    }
+  ]
+}
