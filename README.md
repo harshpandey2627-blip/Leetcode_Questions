@@ -111,6 +111,7 @@ Contains topicwise list of solved problems.
 | [0070-climbing-stairs](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0070-climbing-stairs/) | Easy |
 | [0172-factorial-trailing-zeroes](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0509-fibonacci-number](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0509-fibonacci-number/) | Easy |
 | [0989-add-to-array-form-of-integer](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [2396-strictly-palindromic-number](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/2396-strictly-palindromic-number/) | Medium |
@@ -182,6 +183,7 @@ Contains topicwise list of solved problems.
 | [0139-word-break](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0139-word-break/) | Medium |
 | [0169-majority-element](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0169-majority-element/) | Easy |
 | [0321-create-maximum-number](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0321-create-maximum-number/) | Hard |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0989-add-to-array-form-of-integer](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2778-sum-of-squares-of-special-elements](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
@@ -231,6 +233,7 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0049-group-anagrams/) | Medium |
 | [0169-majority-element](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0169-majority-element/) | Easy |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 ## Boyer–Moore Majority Vote Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
