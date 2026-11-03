@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "dynamic-programming",
-    "name": "Dynamic Programming"
+    "name": "Dynamic Programming",
+    "tagId": "13"
   },
-  "updatedAt": "2026-10-05T17:33:40.906Z",
+  "updatedAt": "2026-11-03T16:44:36.401Z",
   "problems": [
     {
       "frontendId": "22",
@@ -51,6 +52,26 @@
           "path": "0032-longest-valid-parentheses/0032-longest-valid-parentheses.py",
           "sha": "179a8315b615318c309f252b46c5bb0ff92cc53e",
           "lastSyncedAt": "2026-10-03T06:00:23.551Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "53",
+      "title": "Maximum Subarray",
+      "slug": "maximum-subarray",
+      "problemName": "0053-maximum-subarray",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-subarray/",
+      "folderPath": "0053-maximum-subarray/",
+      "readmePath": "0053-maximum-subarray/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0053-maximum-subarray.java",
+          "path": "0053-maximum-subarray/0053-maximum-subarray.java",
+          "sha": "851cb4729fc1f26c071c5a9bad0668e69f6bb158",
+          "lastSyncedAt": "2026-11-03T16:44:36.401Z"
         }
       ]
     },
