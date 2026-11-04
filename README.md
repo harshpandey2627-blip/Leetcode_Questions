@@ -116,6 +116,7 @@ Contains topicwise list of solved problems.
 | [0989-add-to-array-form-of-integer](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [2396-strictly-palindromic-number](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/2396-strictly-palindromic-number/) | Medium |
 | [2409-count-days-spent-together](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/2409-count-days-spent-together/) | Easy |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -189,6 +190,7 @@ Contains topicwise list of solved problems.
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2778-sum-of-squares-of-special-elements](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -214,6 +216,7 @@ Contains topicwise list of solved problems.
 | [0205-isomorphic-strings](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0205-isomorphic-strings/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -254,6 +257,7 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -283,6 +287,7 @@ Contains topicwise list of solved problems.
 | [0139-word-break](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0139-word-break/) | Medium |
 | [0509-fibonacci-number](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0509-fibonacci-number/) | Easy |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -337,4 +342,8 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 <!---LeetCode Topics End-->
