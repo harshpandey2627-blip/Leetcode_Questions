@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/minimum-operations-to-make-elements-within-k-subarrays-equal">3505. Minimum Operations to Make Elements Within K Subarrays Equal</a></h2><h3>Hard</h3><hr><p>You are given an integer array <code>nums</code> and two integers, <code>x</code> and <code>k</code>. You can perform the following operation any number of times (<strong>including zero</strong>):</p>
+<h2><a href="https://leetcode.com/problems/minimum-operations-to-make-elements-within-k-subarrays-equal/">3505. Minimum Operations to Make Elements Within K Subarrays Equal</a></h2><h3>Hard</h3><hr><p>You are given an integer array <code>nums</code> and two integers, <code>x</code> and <code>k</code>. You can perform the following operation any number of times (<strong>including zero</strong>):</p>
 
 <ul>
 	<li>Increase or decrease any element of <code>nums</code> by 1.</li>
