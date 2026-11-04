@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-03T16:44:36.401Z",
+  "updatedAt": "2026-11-04T14:54:34.194Z",
   "problems": [
     {
       "frontendId": "4",
@@ -472,6 +472,26 @@
           "path": "3483-unique-3-digit-even-numbers/3483-unique-3-digit-even-numbers.java",
           "sha": "3ddbc055dcefd666a29548a5a204246d68f36fa2",
           "lastSyncedAt": "2026-09-29T06:06:15.468Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3505",
+      "title": "Minimum Operations to Make Elements Within K Subarrays Equal",
+      "slug": "minimum-operations-to-make-elements-within-k-subarrays-equal",
+      "problemName": "3505-minimum-operations-to-make-elements-within-k-subarrays-equal",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-operations-to-make-elements-within-k-subarrays-equal/",
+      "folderPath": "3505-minimum-operations-to-make-elements-within-k-subarrays-equal/",
+      "readmePath": "3505-minimum-operations-to-make-elements-within-k-subarrays-equal/README.md",
+      "solutions": [
+        {
+          "language": "JavaScript",
+          "extension": ".js",
+          "filename": "3505-minimum-operations-to-make-elements-within-k-subarrays-equal.js",
+          "path": "3505-minimum-operations-to-make-elements-within-k-subarrays-equal/3505-minimum-operations-to-make-elements-within-k-subarrays-equal.js",
+          "sha": "db3b29e0e65f33dd546d29353951380997467db2",
+          "lastSyncedAt": "2026-11-04T14:54:34.194Z"
         }
       ]
     },
