@@ -170,6 +170,7 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0278-first-bad-version](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0278-first-bad-version/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 ## Interactive
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -187,6 +188,7 @@ Contains topicwise list of solved problems.
 | [0321-create-maximum-number](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0321-create-maximum-number/) | Hard |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0989-add-to-array-form-of-integer](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0989-add-to-array-form-of-integer/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2778-sum-of-squares-of-special-elements](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
@@ -206,6 +208,7 @@ Contains topicwise list of solved problems.
 | [0321-create-maximum-number](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0321-create-maximum-number/) | Hard |
 | [0344-reverse-string](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2396-strictly-palindromic-number](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/2396-strictly-palindromic-number/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -239,6 +242,7 @@ Contains topicwise list of solved problems.
 | [0049-group-anagrams](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0049-group-anagrams/) | Medium |
 | [0169-majority-element](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0169-majority-element/) | Easy |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/harshpandey2627-blip/Leetcode_Questions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 ## Boyer–Moore Majority Vote Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
